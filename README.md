@@ -34,7 +34,7 @@ Same goes for the Deep Learning technologies that exists currently. If you reall
 
 ### Making Deep Learing Learn Faster.
 - Batch Normalization.
-- Layer Normalization. #### (To be implemented)
+- Layer Normalization. __(To be implemented)__
 
 ### Recurrent Neural Networks and its variants. 
 - Recurrent Neural Networks (RNN).
@@ -43,16 +43,16 @@ Same goes for the Deep Learning technologies that exists currently. If you reall
 
 ### Computer Vision.
 - Convolutional Neural Networks (CNN).
-- Capsule Networks. #### (To be implemented)
+- Capsule Networks. __(To be implemented)__
 
 ### Generative Models.
-- Autoencoder. #### (To be implemented)
-- Variational Autoencoder. #### (To be implemented)
-- Generative Adversarial Networks from Scratch. #### (To be implemented)
-- Capsule Networks. #### (To be implemented)
-- Boltzmann Machines. #### (To be implemented)
-- Restricted Boltzmann Machines. #### (To be implemented)
-- Deep Belief Networks. #### (To be implemented)s
+- Autoencoder. __(To be implemented)__
+- Variational Autoencoder. __(To be implemented)__
+- Generative Adversarial Networks from Scratch. __(To be implemented)__
+- Capsule Networks. __(To be implemented)__
+- Boltzmann Machines. __(To be implemented)__
+- Restricted Boltzmann Machines. __(To be implemented)__
+- Deep Belief Networks. __(To be implemented)__
 
 
 ## TODO
