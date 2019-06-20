@@ -9,9 +9,9 @@ Same goes for the Deep Learning technologies that exists currently. If you reall
 
 ## List of topics to be implemented.
 
-### Building blocks.
+### Intro to Deep Learning.
 - Linear Regression.
-- Losigtic Regression.
+- Logistic Regression.
 - Multiclass Softmax Regression.
 - Multilayer Neural Networks.
 
@@ -57,5 +57,5 @@ Same goes for the Deep Learning technologies that exists currently. If you reall
 
 ## TODO
 
-- Implement all above algorithms in Pytorch and Tensorflow as well.
+- Implement all above algorithms from scratch in Pytorch and Tensorflow as well.
 
