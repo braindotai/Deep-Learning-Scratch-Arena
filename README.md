@@ -37,12 +37,12 @@ Same goes for the Deep Learning technologies that exists currently. If you reall
 - Batch Normalization.
 - Layer Normalization. __(To be implemented)__
 
-### Recurrent Neural Networks and its variants. 
+### Recurrent Neural Networks. 
 - Recurrent Neural Networks (RNN).
 - Long Short Term Memory Cell (LSTM).
 - Gated Recurrent Unit (GRU).
 
-### Computer Vision.
+### Convolutional Neural Networks.
 - Convolutional Neural Networks (CNN).
 - Capsule Networks. __(To be implemented)__
 
