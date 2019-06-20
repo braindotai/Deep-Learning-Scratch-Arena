@@ -23,8 +23,8 @@ Same goes for the Deep Learning technologies that exists currently. If you reall
 - AdaDelta Optimizer.
 - Adam Optimizer.
 - AMSGrad Optimizer.
-- AdaMax Optimizer.
 - Nadam Optimizer.
+- AdaMax Optimizer.
 
 ### Preventing Overfitting.
 - L1 Regularization.
