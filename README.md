@@ -9,5 +9,5 @@ Same goes for the Deep Learning technologies that exists currently. If you want 
 
 ## Future plans?
 
-More scratch implementations like autoencoders, generative adversarial networks, variational autoencoder..... are comping soon.
+More scratch implementations like autoencoders, generative adversarial networks, variational autoencoder..... are coming soon.
 Also scratch implentations in Pytorch and Tensorflow are on their way.
