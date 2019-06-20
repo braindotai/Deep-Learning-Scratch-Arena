@@ -15,13 +15,14 @@ Same goes for the Deep Learning technologies that exists currently. If you reall
 - Multiclass Softmax Regression.
 - Multilayer Neural Networks.
 
-### Gradient Descent's Variants. 
+### Gradient Descent Variants. 
 - Momentum Optimizer.
 - NAG Optimizer.
 - AdaGrad Optimizer.
 - RMSProp Optimizer.
 - AdaDelta Optimizer.
 - Adam Optimizer.
+- AMSGrad Optimizer.
 - AdaMax Optimizer.
 - Nadam Optimizer.
 
