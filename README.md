@@ -7,7 +7,7 @@ The God Father of AI Geoffrey Hinton said "If you want to understand a really co
 
 Same goes for the Deep Learning technologies that exists currently. If you really (like reeaally) want to understand such technologies then you should build them. Indeed Keras exists, but these kind of frameworks which takes not more than 5 lines to build a model actually hides everything from you, that makes you completely unknown what's going on under the hood. The purpose of such frameworks is rapid deployment and production, they are not meant to be used by people who are beginner in the field. If you already understand the technology, then be my guest and use such frameworks like a champ, otherwise if you are a beginner in the field......... you better listen to The God Father.
 
-## List of topics to be implemented.
+## List of topics.
 
 ### Intro to Deep Learning.
 - Linear Regression.
