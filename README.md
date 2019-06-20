@@ -30,8 +30,7 @@ Same goes for the Deep Learning technologies that exists currently. If you reall
 - L1 Regularization.
 - L2 Regularization.
 - Dropout.
-- Maxout.
-- Drop Connect.
+- DropConnect.
 
 ### Making Deep Learing Learn Faster.
 - Batch Normalization.
