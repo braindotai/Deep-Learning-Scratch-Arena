@@ -34,7 +34,7 @@ Same goes for the Deep Learning technologies that exists currently. If you reall
 
 ### Making Deep Learing Learn Faster.
 - Batch Normalization.
-- Layer Normalization. __(To be implemented)__
+- Layer Normalization.
 
 ### Recurrent Neural Networks. 
 - Recurrent Neural Networks (RNN).
