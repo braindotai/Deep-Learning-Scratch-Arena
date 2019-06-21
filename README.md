@@ -47,6 +47,7 @@ Same goes for the Deep Learning technologies that exists currently. If you reall
 
 ### Generative Models.
 - Autoencoder.
+- Denoising Autoencoder.
 - Variational Autoencoder. __(To be implemented)__
 - Generative Adversarial Networks from Scratch. __(To be implemented)__
 - Capsule Networks. __(To be implemented)__
