@@ -32,7 +32,7 @@ Same goes for the Deep Learning technologies that exists currently. If you reall
 - Dropout.
 - DropConnect.
 
-### Making Deep Learing Learn Faster.
+### Making Deep Learning Learn Faster.
 - Batch Normalization.
 - Layer Normalization.
 
@@ -49,7 +49,7 @@ Same goes for the Deep Learning technologies that exists currently. If you reall
 - Autoencoder.
 - Denoising Autoencoder.
 - Variational Autoencoder.
-- Generative Adversarial Networks. __(To be implemented)__
+- Generative Adversarial Networks.
 - Boltzmann Machines. __(To be implemented)__
 - Restricted Boltzmann Machines. __(To be implemented)__
 - Deep Belief Networks. __(To be implemented)__
