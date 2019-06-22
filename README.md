@@ -10,7 +10,7 @@ Same goes for the Deep Learning technologies that exists currently. If you reall
 ## List of topics.
 
 ### Intro to Deep Learning.
-- Understandong Percepron - Linear Regression.
+- Understanding Percepron - Linear Regression.
 - Binary Classification - Logistic Regression.
 - Multiclass Classification - Softmax Regression.
 - The Modern Deep Learning - Multilayer Neural Networks.
