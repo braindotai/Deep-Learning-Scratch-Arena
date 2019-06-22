@@ -10,10 +10,10 @@ Same goes for the Deep Learning technologies that exists currently. If you reall
 ## List of topics.
 
 ### Intro to Deep Learning.
-- Linear Regression.
-- Binary Classification using Logistic Regression.
-- Multiclass Classification using Softmax Regression.
-- Multilayer Neural Networks.
+- Understandong Percepron - Linear Regression.
+- Binary Classification - Logistic Regression.
+- Multiclass Classification - Softmax Regression.
+- The Modern Deep Learning - Multilayer Neural Networks.
 
 ### Gradient Descent Variants. 
 - Momentum Optimizer.
