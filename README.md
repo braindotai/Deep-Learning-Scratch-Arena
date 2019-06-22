@@ -40,6 +40,7 @@ Same goes for the Deep Learning technologies that exists currently. If you reall
 - Recurrent Neural Networks (RNN).
 - Long Short Term Memory Cell (LSTM).
 - Gated Recurrent Unit (GRU).
+- Sequence to Sequence. __(To be implemented)__
 
 ### Convolutional Neural Networks.
 - Convolutional Neural Networks (CNN).
