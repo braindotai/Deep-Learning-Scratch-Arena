@@ -2,12 +2,12 @@
 
 ## Why Scratch Implemantation??
 
-Watch 2:10 at https://www.youtube.com/watch?v=l9RWTMNnvi4
+Watch https://youtu.be/l9RWTMNnvi4?t=130,
 The God Father of AI Geoffrey Hinton said "If you want to understand a really complicated device like brain, then you should build one".
 
-Same goes for the Deep Learning technologies that exists currently. If you really (like reeaally) want to understand such technologies then you should build them. Indeed Keras exists, but these kind of frameworks which takes not more than 5 lines to build a model actually hides everything from you, that makes you completely unknown what's going on under the hood. The purpose of such frameworks is rapid deployment and production, they are not meant to be used by people who are beginner in the field. If you already understand the technology, then be my guest and use such frameworks like a champ, otherwise if you are a beginner in the field......... you better listen to The God Father.
+Same goes for the Deep Learning technologies, if you really (like reeaally) want to understand such technologies then you should build them. Indeed Keras exists, but these kind of frameworks which takes not more than 5 lines to build a model actually hides everything from you, that makes you completely unknown what's going on under the hood. The purpose of such frameworks is rapid deployment and production, they are not meant to be used by people who are beginner in the field. If you already understand the technology, then be my guest and use such frameworks like a champ, otherwise if you are a beginner in the field......... you better listen to The God Father.
 
-## List of topics.
+## List of topics implemented from scratch.
 
 ### Intro to Deep Learning.
 - Understanding Percepron - Linear Regression.
@@ -19,8 +19,8 @@ Same goes for the Deep Learning technologies that exists currently. If you reall
 - Momentum Optimizer.
 - NAG Optimizer.
 - AdaGrad Optimizer.
-- RMSProp Optimizer.
 - AdaDelta Optimizer.
+- RMSProp Optimizer.
 - Adam Optimizer.
 - AMSGrad Optimizer.
 - Nadam Optimizer.
