@@ -1,4 +1,4 @@
-# Deep-Learning-Scratch-Implementations
+# Deep Learning Scratch Implementations
 
 ## Why Scratch Implemantation??
 
