@@ -61,10 +61,10 @@ It is recommended to run notebooks locally on your computer if you have GPU(CUDA
 
 - Go to https://colab.research.google.com
 - Sign In using your google account.
-- From the menu top left, Go to "File -> Upload notebook -> Choose File".
-- Then select the notebook you want to run located in your computer and click "Open".
+- From the menu top left, Go to "__File -> Upload notebook -> Choose File__".
+- Then select the notebook you want to run located in your computer and click "__Open__".
 - Wait for a while.
-- When notebook is successfully loaded, from the menu top left go to "Runtime -> Change runtime type" and select GPU as your "Hardware accelerator" then click "SAVE".
+- When notebook is successfully loaded, from the menu top left go to "__Runtime -> Change runtime type__" and select GPU as your "__Hardware accelerator__" then click "__SAVE__".
 - Now you are ready to roll.
 
 
