@@ -56,6 +56,18 @@ Same goes for the Deep Learning technologies, if you really (like reeaally) want
 - Deep Belief Networks. __(To be implemented)__
 
 
+## How to use notebooks provided.
+It is recommended to run notebooks locally on your computer if you have GPU(CUDA) support. If you don't have the GPU, then follow the steps as bellow:-
+
+- Go to https://colab.research.google.com
+- Sign In using your google account.
+- From the menu top left, Go to "File -> Upload notebook -> Choose File".
+- Then select the notebook you want to run located in your computer and click "Open".
+- Wait for a while.
+- When notebook is successfully loaded, from the menu top left go to "Runtime -> Change runtime type" and select GPU as your "Hardware accelerator" then click "SAVE".
+- Now you are ready to roll.
+
+
 ## TODO
 
 - Implement all above algorithms from scratch in Pytorch and Tensorflow as well.
