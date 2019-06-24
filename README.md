@@ -66,7 +66,9 @@ If you don't have the GPU, then follow the steps as bellow:-
 - From the menu top left, Go to "__File -> Upload notebook -> Choose File__".
 - Then select the notebook you want to run located in your computer and click "__Open__".
 - Wait for a while.
-- When notebook is successfully loaded, from the menu top left go to "__Runtime -> Change runtime type__" and select GPU as your "__Hardware accelerator__" then click "__SAVE__".
+- When notebook is successfully loaded, from the menu top left go to "__Runtime -> Change runtime type__".
+- Select GPU as your "__Hardware accelerator__".
+- Click "__SAVE__".
 - Now you are ready to roll.
 
 
