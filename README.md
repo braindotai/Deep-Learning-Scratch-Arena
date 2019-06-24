@@ -57,7 +57,9 @@ Same goes for the Deep Learning technologies, if you really (like reeaally) want
 
 
 ## How to use notebooks provided.
-It is recommended to run notebooks locally on your computer if you have GPU(CUDA) support. If you don't have the GPU, then follow the steps as bellow:-
+It is recommended to run notebooks locally on your computer only if you have GPU(CUDA) support, otherwise it'd be quit painfull :O
+
+If you don't have the GPU, then follow the steps as bellow:-
 
 - Go to https://colab.research.google.com
 - Sign In using your google account.
