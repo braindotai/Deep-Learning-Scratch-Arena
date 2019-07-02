@@ -41,6 +41,8 @@ Same goes for the Deep Learning technologies, if you really (like reeaally) want
 - Long Short Term Memory Cell (LSTM).
 - Gated Recurrent Unit (GRU).
 - Sequence to Sequence. __(To be implemented)__
+- Multilayer Recurrent Neural Networks. __(To be implemented)__
+- Bidirectional Recurrent Neural Networks. __(To be implemented)__
 
 ### Convolutional Neural Networks.
 - Convolutional Neural Networks (CNN).
@@ -74,5 +76,7 @@ If you don't have the GPU, then follow the steps as bellow:-
 
 ## TODO
 
-- Implement all above algorithms from scratch in Pytorch and Tensorflow as well.
-
+- Implement all above algorithms from scratch in Tensorflow.
+- Implement all above algorithms from scratch in Pytorch.
+- Provide resources to learn topics mentioned above.
+- Add more explanations to notebooks for better understanding.
