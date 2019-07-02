@@ -53,6 +53,8 @@ Same goes for the Deep Learning technologies, if you really (like reeaally) want
 - Denoising Autoencoder.
 - Variational Autoencoder.
 - Generative Adversarial Networks.
+- Style Transfer.
+- Pix to Pix.
 - Boltzmann Machines. __(To be implemented)__
 - Restricted Boltzmann Machines. __(To be implemented)__
 - Deep Belief Networks. __(To be implemented)__
