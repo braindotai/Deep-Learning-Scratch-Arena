@@ -40,7 +40,7 @@ Same goes for the Deep Learning technologies, if you really (like reeaally) want
 - Recurrent Neural Networks (RNN).
 - Long Short Term Memory Cell (LSTM).
 - Gated Recurrent Unit (GRU).
-- Sequence to Sequence. __(To be implemented)__
+- Sequence to Sequence.
 - Multilayer Recurrent Neural Networks. __(To be implemented)__
 - Bidirectional Recurrent Neural Networks. __(To be implemented)__
 
@@ -53,8 +53,8 @@ Same goes for the Deep Learning technologies, if you really (like reeaally) want
 - Denoising Autoencoder.
 - Variational Autoencoder.
 - Generative Adversarial Networks.
-- Style Transfer.
-- Pix to Pix.
+- Style Transfer. __(To be implemented)__
+- Pixel2Pixel. __(To be implemented)__
 - Boltzmann Machines. __(To be implemented)__
 - Restricted Boltzmann Machines. __(To be implemented)__
 - Deep Belief Networks. __(To be implemented)__
