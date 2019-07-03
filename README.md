@@ -10,7 +10,7 @@ Same goes for the Deep Learning technologies, if you really (like reeaally) want
 ## List of topics implemented from scratch.
 
 ### Intro to Deep Learning.
-- [Understanding Percepron - Linear Regression.](01. Intro to Deep Learning/Linear_Regression_MXNet_(From_Scratch).ipynb)
+- [Understanding Percepron - Linear Regression.](https://github.com/braindotai/Deep-Learning-Scratch-Implementations/blob/master/01.%20Intro%20To%20Deep%20Learning/01.%20Linear_Regression_MXNet_(From_Scratch).ipynb)
 - Binary Classification - Logistic Regression.
 - Multiclass Classification - Softmax Regression.
 - The Modern Deep Learning - Neural Networks.
