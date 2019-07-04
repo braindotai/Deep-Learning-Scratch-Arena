@@ -98,7 +98,10 @@ Its a full course for intermediates by Prof Andrew Ng, this course provides tech
 Its a full course on Convolutional Neural Networks by Prof Andrew Ng, this course provides great explanations and examples for the topic with great simplicity and helpful guides, and is available as a playlist on YouTube.
 
 4. [Recurrent Neural Networks by Andrew Ng](https://www.youtube.com/watch?v=efWlOCE_6HY&list=PL1w8k37X_6L_s4ncq-swTBvKDWnRSrinI&index=2)
-Its a full course on Recurrent Neural Networks by Prof Andrew Ng, this course provides explanations to why we need sequence models and what are their use cases and how do they work, and again..... is available as a playlist on YouTube.
+Its a full course on Recurrent Neural Networks by Prof Andrew Ng, this course provides explanations to why we need sequence models and what are their use cases and how do they work, and is available as a playlist on YouTube.
+
+5. [A Great Course on Deep Learning by MIT](https://www.youtube.com/watch?v=5v1JnYv_yWs&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI&index=1)
+Its a full course on Deep Learning by MIT, this course provides great explanations to various deep learning topics like GANs, and is available as a playlist on YouTube. Note: only watch first 4 lectures because afterwards they are explaining an another AI field know as Reinforcement Learning, which we will cover later.
 
 
 ## TODO
