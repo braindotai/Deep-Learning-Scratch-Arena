@@ -17,49 +17,49 @@ Same goes for the Deep Learning technologies, if you really (like reeaally) want
 ## List of topics implemented from scratch.
 
 ### Intro to Deep Learning.
-- [Understanding Percepron - Linear Regression.](01.%20Intro%20To%20Deep%20Learning/01.%20Linear_Regression_MXNet_(From_Scratch).ipynb)
-- [Binary Classification - Logistic Regression.](01.%20Intro%20To%20Deep%20Learning/02.%20Logistic_Regression_MXNet_(From_Scratch).ipynb)
-- [Multiclass Classification - Softmax Regression.](01.%20Intro%20To%20Deep%20Learning/03.%20Multiclass_Softmax_Classification_MXNet_(From_Scratch).ipynb)
-- [The Modern Deep Learning - Neural Networks.](01.%20Intro%20To%20Deep%20Learning/04.%20Multilayer_Neural_Networks_MXNet_(From_Scratch).ipynb)
+- [Understanding Percepron - Linear Regression.](01.%20Intro%20To%20Deep%20Learning/01.%20Linear_Regression_MXNet_(From_Scratch).ipynb){:target="_blank"}
+- [Binary Classification - Logistic Regression.](01.%20Intro%20To%20Deep%20Learning/02.%20Logistic_Regression_MXNet_(From_Scratch).ipynb){:target="_blank"}
+- [Multiclass Classification - Softmax Regression.](01.%20Intro%20To%20Deep%20Learning/03.%20Multiclass_Softmax_Classification_MXNet_(From_Scratch){:target="_blank"}.ipynb)
+- [The Modern Deep Learning - Neural Networks.](01.%20Intro%20To%20Deep%20Learning/04.%20Multilayer_Neural_Networks_MXNet_(From_Scratch).ipynb){:target="_blank"}
 
 ### Gradient Descent Variants. 
-- [Momentum Optimizer.](02.%20Gradient%20Descent%20Variants/01.%20Momentum_Optimizer_MXNet_(From_Scratch).ipynb)
-- [Nesterov Accelerated Gradient Optimizer.](02.%20Gradient%20Descent%20Variants/02.%20Nesterov_Accelerated_Gradient_Optimizer.ipynb)
-- [AdaGrad Optimizer.](02.%20Gradient%20Descent%20Variants/03.%20AdaGrad_Optimizer_MXNet_(From_Scratch).ipynb)
-- [AdaDelta Optimizer.](02.%20Gradient%20Descent%20Variants/04.%20AdaDelta_Optimizer_MXNet_(From_Scratch).ipynb)
-- [RMSProp Optimizer.](02.%20Gradient%20Descent%20Variants/05.%20RMSProp_Optimizer_MXNet_(From_scratch).ipynb)
-- [Adam Optimizer.](02.%20Gradient%20Descent%20Variants/06.%20Adam_Optimizer_MXNet_(From_Scratch).ipynb)
-- [AMSGrad Optimizer.](02.%20Gradient%20Descent%20Variants/07.%20AMSGrad_Optimizer_MXNet_(From_Scratch).ipynb)
-- [Nadam Optimizer.](02.%20Gradient%20Descent%20Variants/08.%20Nadam_Optimizer_MXNet_(From_Scratch).ipynb)
-- [AdaMax Optimizer.](02.%20Gradient%20Descent%20Variants/09.%20AdaMax_Optimizer_MXNet_(From_Scratch).ipynb)
+- [Momentum Optimizer.](02.%20Gradient%20Descent%20Variants/01.%20Momentum_Optimizer_MXNet_(From_Scratch).ipynb){:target="_blank"}
+- [Nesterov Accelerated Gradient Optimizer.](02.%20Gradient%20Descent%20Variants/02.%20Nesterov_Accelerated_Gradient_Optimizer.ipynb){:target="_blank"}
+- [AdaGrad Optimizer.](02.%20Gradient%20Descent%20Variants/03.%20AdaGrad_Optimizer_MXNet_(From_Scratch).ipynb){:target="_blank"}
+- [AdaDelta Optimizer.](02.%20Gradient%20Descent%20Variants/04.%20AdaDelta_Optimizer_MXNet_(From_Scratch).ipynb){:target="_blank"}
+- [RMSProp Optimizer.](02.%20Gradient%20Descent%20Variants/05.%20RMSProp_Optimizer_MXNet_(From_scratch).ipynb){:target="_blank"}
+- [Adam Optimizer.](02.%20Gradient%20Descent%20Variants/06.%20Adam_Optimizer_MXNet_(From_Scratch).ipynb){:target="_blank"}
+- [AMSGrad Optimizer.](02.%20Gradient%20Descent%20Variants/07.%20AMSGrad_Optimizer_MXNet_(From_Scratch).ipynb){:target="_blank"}
+- [Nadam Optimizer.](02.%20Gradient%20Descent%20Variants/08.%20Nadam_Optimizer_MXNet_(From_Scratch).ipynb){:target="_blank"}
+- [AdaMax Optimizer.](02.%20Gradient%20Descent%20Variants/09.%20AdaMax_Optimizer_MXNet_(From_Scratch).ipynb){:target="_blank"}
 
 ### Preventing Overfitting.
-- [L1 Regularization.](03.%20Preventing%20Overfitting/01.%20Regularization_MXNet_(From_scratch).ipynb)
-- [L2 Regularization.](03.%20Preventing%20Overfitting/01.%20Regularization_MXNet_(From_scratch).ipynb)
-- [Dropout.](03.%20Preventing%20Overfitting/02.%20Dropout_MXNet_(From_Scratch).ipynb)
-- [DropConnect.](03.%20Preventing%20Overfitting/03.%20DropConnect_MXNet_(From_Scratch).ipynb)
+- [L1 Regularization.](03.%20Preventing%20Overfitting/01.%20Regularization_MXNet_(From_scratch).ipynb){:target="_blank"}
+- [L2 Regularization.](03.%20Preventing%20Overfitting/01.%20Regularization_MXNet_(From_scratch).ipynb){:target="_blank"}
+- [Dropout.](03.%20Preventing%20Overfitting/02.%20Dropout_MXNet_(From_Scratch).ipynb){:target="_blank"}
+- [DropConnect.](03.%20Preventing%20Overfitting/03.%20DropConnect_MXNet_(From_Scratch).ipynb){:target="_blank"}
 
 ### Making Deep Learning Learn Faster.
-- [Batch Normalization.](04.%20Making%20Deep%20Learing%20Learn%20Faster/01.%20Batch_Normalization_MXNet_(From_Scratch).ipynb)
-- [Layer Normalization.](04.%20Making%20Deep%20Learing%20Learn%20Faster/02.%20Layer_Normalization_MXNet_(From_Scratch).ipynb)
+- [Batch Normalization.](04.%20Making%20Deep%20Learing%20Learn%20Faster/01.%20Batch_Normalization_MXNet_(From_Scratch).ipynb){:target="_blank"}
+- [Layer Normalization.](04.%20Making%20Deep%20Learing%20Learn%20Faster/02.%20Layer_Normalization_MXNet_(From_Scratch).ipynb){:target="_blank"}
 
 ### Recurrent Neural Networks. 
-- [Recurrent Neural Networks (RNN).](05.%20Recurrent%20Neural%20Networks/01.%20Recurrent_Neural_Networks_MXNet_(From_Scratch)_original.ipynb)
-- [Long Short Term Memory Cell (LSTM).](05.%20Recurrent%20Neural%20Networks/02.%20Long_Short_Term_Memory_MXNet_(From_Scratch).ipynb)
-- [Gated Recurrent Unit (GRU).](05.%20Recurrent%20Neural%20Networks/03.%20Gated_Recurrent_Unit_MXNet_(From_Scratch).ipynb)
-- [Sequence to Sequence.](05.%20Recurrent%20Neural%20Networks/04.%20Sequence_to_Sequence_MXNet_(From_Scratch).ipynb)
-- [Multilayer Recurrent Neural Networks.](05.%20Recurrent%20Neural%20Networks/05.%20Multilayer_Recurrent_Neural_Networks_MXNet_(From_Scratch).ipynb)
+- [Recurrent Neural Networks (RNN).](05.%20Recurrent%20Neural%20Networks/01.%20Recurrent_Neural_Networks_MXNet_(From_Scratch)_original.ipynb){:target="_blank"}
+- [Long Short Term Memory Cell (LSTM).](05.%20Recurrent%20Neural%20Networks/02.%20Long_Short_Term_Memory_MXNet_(From_Scratch).ipynb){:target="_blank"}
+- [Gated Recurrent Unit (GRU).](05.%20Recurrent%20Neural%20Networks/03.%20Gated_Recurrent_Unit_MXNet_(From_Scratch).ipynb){:target="_blank"}
+- [Sequence to Sequence.](05.%20Recurrent%20Neural%20Networks/04.%20Sequence_to_Sequence_MXNet_(From_Scratch).ipynb){:target="_blank"}
+- [Multilayer Recurrent Neural Networks.](05.%20Recurrent%20Neural%20Networks/05.%20Multilayer_Recurrent_Neural_Networks_MXNet_(From_Scratch).ipynb){:target="_blank"}
 - Bidirectional Recurrent Neural Networks. __(To be implemented)__
 
 ### Convolutional Neural Networks.
-- [Convolutional Neural Networks (CNN).](06.%20Convolutional%20Neural%20Networks/01.%20Convolutional_Neural_Networks_MXNet_(From_Scratch).ipynb)
+- [Convolutional Neural Networks (CNN).](06.%20Convolutional%20Neural%20Networks/01.%20Convolutional_Neural_Networks_MXNet_(From_Scratch).ipynb){:target="_blank"}
 - Capsule Networks. __(To be implemented)__
 
 ### Generative Models.
-- [Autoencoder.](07.%20Generative%20models/01.%20Autoencoder_MXNet_(From_Scratch).ipynb)
-- [Denoising Autoencoder.](07.%20Generative%20models/02.%20Denoising_Autoencoder_MXNet_(From_Scratch).ipynb)
-- [Variational Autoencoder.](07.%20Generative%20models/03.%20Variational_Autoencoder.ipynb)
-- [Generative Adversarial Networks.](07.%20Generative%20models/04.%20Generative_Adversarial_Networks_MXNet_(From_Scratch).ipynb)
+- [Autoencoder.](07.%20Generative%20models/01.%20Autoencoder_MXNet_(From_Scratch).ipynb){:target="_blank"}
+- [Denoising Autoencoder.](07.%20Generative%20models/02.%20Denoising_Autoencoder_MXNet_(From_Scratch).ipynb){:target="_blank"}
+- [Variational Autoencoder.](07.%20Generative%20models/03.%20Variational_Autoencoder.ipynb){:target="_blank"}
+- [Generative Adversarial Networks.](07.%20Generative%20models/04.%20Generative_Adversarial_Networks_MXNet_(From_Scratch).ipynb){:target="_blank"}
 - Style Transfer. __(To be implemented)__
 - Pixel2Pixel. __(To be implemented)__
 - Boltzmann Machines. __(To be implemented)__
