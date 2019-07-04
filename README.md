@@ -132,9 +132,11 @@ This book is an interactive deep learning book with code, math, and discussions,
 11. [Another Great Book on Deep Learning by Ian Goodfellow](https://www.deeplearningbook.org/)
 
 This book introduces to Deep Learning by first teaching the crucial math required for Deep Learning(mainly for research), for example:-
-    - Linear Algebra
-    - Probability
-    - Numerical Computation... etc
+
+- Linear Algebra
+- Probability
+- Numerical Computation... etc
+
 This book would definitely help you to build the foundational understanding mathematics for research in Deep Learning.
 
 
