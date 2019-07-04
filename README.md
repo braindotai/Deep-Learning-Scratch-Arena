@@ -1,6 +1,10 @@
-# Deep Learning Scratch Implementations
+# Welcome to Deep Learning Scratch Arena.
 
-## Why Scratch Implemantation??
+## What is Deep Learning Scratch Arena?
+
+My goal is to provide high quality Scratch Implementations of the fundamentals of Deep Learning and its applications, with interactive well documentated jupyter notebooks.
+
+## Why Scratch Implemantation?
 
 Watch https://youtu.be/l9RWTMNnvi4?t=130,
 The God Father of AI Geoffrey Hinton said "If you want to understand a really complicated device like brain, then you should build one".
