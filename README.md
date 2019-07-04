@@ -49,7 +49,7 @@ Same goes for the Deep Learning technologies, if you really (like reeaally) want
 - [Gated Recurrent Unit (GRU).](05.%20Recurrent%20Neural%20Networks/03.%20Gated_Recurrent_Unit_MXNet_(From_Scratch).ipynb)
 - [Sequence to Sequence.](05.%20Recurrent%20Neural%20Networks/04.%20Sequence_to_Sequence_MXNet_(From_Scratch).ipynb)
 - [Multilayer Recurrent Neural Networks.](05.%20Recurrent%20Neural%20Networks/05.%20Multilayer_Recurrent_Neural_Networks_MXNet_(From_Scratch).ipynb)
-- Bidirectional Recurrent Neural Networks. __(To be implemented)__
+- [Bidirectional Recurrent Neural Networks.](05.%20Recurrent%20Neural%20Networks/06.%20Bidirectional_Recurrent_Neural_Networks_MXNet_(From_Scratch).ipynb)
 
 ### Convolutional Neural Networks.
 - [Convolutional Neural Networks (CNN).](06.%20Convolutional%20Neural%20Networks/01.%20Convolutional_Neural_Networks_MXNet_(From_Scratch).ipynb)
