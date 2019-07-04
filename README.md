@@ -1,8 +1,10 @@
 # Welcome to Deep Learning Scratch Arena.
 
+
 ## What is Deep Learning Scratch Arena?
 
-My goal is to provide high quality Scratch Implementations of the fundamentals of Deep Learning and its applications, with interactive well documentated jupyter notebooks.
+My goal is to provide high quality Scratch Implementations of the fundamentals of Deep Learning and its applications, with interactive well documentated jupyter notebooks. All notebooks comes along with implementations using Tensorflow, MXNet and Pytorch.
+
 
 ## Why Scratch Implemantation?
 
@@ -10,6 +12,7 @@ Watch https://youtu.be/l9RWTMNnvi4?t=130,
 The God Father of AI Geoffrey Hinton said "If you want to understand a really complicated device like brain, then you should build one".
 
 Same goes for the Deep Learning technologies, if you really (like reeaally) want to understand such technologies then you should build them. Indeed Keras exists, but these kind of frameworks which takes not more than 5 lines to build a model actually hides everything from you, that makes you completely unknown what's going on under the hood. The purpose of such frameworks is rapid deployment and production, they are not meant to be used by people who are beginner in the field. If you already understand the technology, then be my guest and use such frameworks like a champ, otherwise if you are a beginner in the field......... you better listen to The God Father.
+
 
 ## List of topics implemented from scratch.
 
@@ -78,6 +81,24 @@ If you don't have the GPU, then follow the steps as bellow:-
 - Select GPU as your "__Hardware accelerator__".
 - Click "__SAVE__".
 - Now you are ready to roll.
+
+
+## What are some good resources to learn Deep Learning?
+
+Here are some very useful resources I've curated so far. Watch and read in the following order.
+
+
+1. [Deep Learning For Beginners by Andrew Ng](https://www.youtube.com/watch?v=CS4cs9xVecg&list=PLkDaE6sCZn6Ec-XTbcX1uRg2_u4xOEky0)
+Its a full course for beginners by Prof Andrew Ng, this course provides the glimps to the world of AI, and is available as a playlist on YouTube.
+
+2. [Deep Learning For Intermediates by Andrew Ng](https://www.youtube.com/watch?v=1waHlpKiNyY&list=PLkDaE6sCZn6Hn0vK8co82zjQtt3T2Nkqc)
+Its a full course for intermediates by Prof Andrew Ng, this course provides techniques to improve Deep Learning models, and is available as a playlist on YouTube.
+
+3. [Convolutional Neural Networks by Andrew Ng](https://www.youtube.com/watch?v=ArPaAX_PhIs&list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF)
+Its a full course on Convolutional Neural Networks by Prof Andrew Ng, this course provides great explanations and examples for the topic with great simplicity and helpful guides, and is available as a playlist on YouTube.
+
+4. [Recurrent Neural Networks by Andrew Ng](https://www.youtube.com/watch?v=efWlOCE_6HY&list=PL1w8k37X_6L_s4ncq-swTBvKDWnRSrinI&index=2)
+Its a full course on Recurrent Neural Networks by Prof Andrew Ng, this course provides explanations to why we need sequence models and what are their use cases and how do they work, and again..... is available as a playlist on YouTube.
 
 
 ## TODO
