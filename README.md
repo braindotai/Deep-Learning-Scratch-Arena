@@ -58,6 +58,7 @@ Same goes for the Deep Learning technologies, if you really (like reeaally) want
 ### Generative Models.
 - [Autoencoder.](07.%20Generative%20models/01.%20Autoencoder_MXNet_(From_Scratch).ipynb)
 - [Denoising Autoencoder.](07.%20Generative%20models/02.%20Denoising_Autoencoder_MXNet_(From_Scratch).ipynb)
+- Sparse Autoencoder. __(To be implemented)__
 - [Variational Autoencoder.](07.%20Generative%20models/03.%20Variational_Autoencoder.ipynb)
 - [Generative Adversarial Networks.](07.%20Generative%20models/04.%20Generative_Adversarial_Networks_MXNet_(From_Scratch).ipynb)
 - Style Transfer. __(To be implemented)__
