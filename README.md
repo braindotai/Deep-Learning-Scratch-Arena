@@ -138,7 +138,7 @@ This book introduces to Deep Learning by first teaching the crucial math require
 - Probability
 - Numerical Computation... etc
 
-This book would definitely help you to build the foundational understanding mathematics for research in Deep Learning.
+This book would definitely help you to build the foundational understanding of mathematics for research in Deep Learning.
 
 
 ## TODO
