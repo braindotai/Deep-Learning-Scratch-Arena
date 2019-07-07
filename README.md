@@ -34,8 +34,8 @@ Same goes for the Deep Learning technologies, if you really (like reeaally) want
 - [AdaMax Optimizer.](02.%20Gradient%20Descent%20Variants/09.%20AdaMax%20-%20MXNet.ipynb)
 
 ### Learning Rate Decay Methods.
-- [Time Based Decay.](03.%20Learning%20Rate%20Decay%20Methods/01.%20Time%20Based%20Decay%20-%20MXNet.ipynb)
-- Step Decay Decay. __(To be implemented)__
+- [Time Decay.](03.%20Learning%20Rate%20Decay%20Methods/01.%20Time%20Based%20Decay%20-%20MXNet.ipynb)
+- Step Decay. __(To be implemented)__
 - Exponential Decay. __(To be implemented)__
 - Cyclic Policy. __(To be implemented)__
 
