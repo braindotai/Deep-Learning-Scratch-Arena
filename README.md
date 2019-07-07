@@ -36,7 +36,7 @@ Same goes for the Deep Learning technologies, if you really (like reeaally) want
 ### Learning Rate Decay Methods.
 - [Time Decay.](03.%20Learning%20Rate%20Decay%20Methods/01.%20Time%20Decay%20-%20MXNet.ipynb)
 - [Step Decay.](03.%20Learning%20Rate%20Decay%20Methods/02.%20Step%20Decay%20-%20MXNet.ipynb)
-- Exponential Decay. __(To be implemented)__
+- [Exponential Decay.](03.%20Learning%20Rate%20Decay%20Methods/03.%20Exponential%20Decay%20-%20MXNet.ipynb)
 - Cyclic Policy. __(To be implemented)__
 
 ### Preventing Overfitting.
