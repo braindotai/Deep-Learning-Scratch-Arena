@@ -48,7 +48,7 @@ Same goes for the Deep Learning technologies, if you really (like reeaally) want
 - [Long Short Term Memory Cell (LSTM).](05.%20Recurrent%20Neural%20Networks/02.%20Long%20Short%20Term%20Memory%20-%20MXNet.ipynb)
 - [Gated Recurrent Unit (GRU).](05.%20Recurrent%20Neural%20Networks/03.%20Gated%20Recurrent%20Unit%20-%20MXNet.ipynb)
 - [Sequence to Sequence.](05.%20Recurrent%20Neural%20Networks/04.%20Sequence%20to%20Sequence%20-%20MXNet.ipynb)
-- [Multilayer Recurrent Neural Networks.](05.%20Recurrent%20Neural%20Networks/05.%20Multilayer%20Recurrent%20Neural%20Networks%20-%20MXNet.ipynb)
+- [Multilayer Recurrent Neural Networks.](05.%20Recurrent%20Neural%20Networks/05.%20Multilayer%20Recurrent%20Neural%20Networks%20MXNet.ipynb)
 - [Bidirectional Recurrent Neural Networks.](05.%20Recurrent%20Neural%20Networks/06.%20Bidirectional%20Recurrent%20Neural%20Networks%20-%20MXNet.ipynb)
 
 ### Convolutional Neural Networks.
