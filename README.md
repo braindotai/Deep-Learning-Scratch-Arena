@@ -58,14 +58,8 @@ Same goes for the Deep Learning technologies, if you really (like reeaally) want
 ### Generative Models.
 - [Autoencoder.](07.%20Generative%20models/01.%20Autoencoder%20MXNet.ipynb)
 - [Denoising Autoencoder.](07.%20Generative%20models/02.%20Denoising%20Autoencoder%20-%20MXNet.ipynb)
-- Sparse Autoencoder. __(To be implemented)__
 - [Variational Autoencoder.](07.%20Generative%20models/03.%20Variational%20Autoencoder%20-%20MXNet.ipynb)
 - [Generative Adversarial Networks.](07.%20Generative%20models/04.%20Generative%20Adversarial%20Networks%20-%20MXNet.ipynb)
-- Style Transfer. __(To be implemented)__
-- Pixel2Pixel. __(To be implemented)__
-- Boltzmann Machines. __(To be implemented)__
-- Restricted Boltzmann Machines. __(To be implemented)__
-- Deep Belief Networks. __(To be implemented)__
 
 
 ## How to run provided notebooks?
