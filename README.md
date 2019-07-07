@@ -17,7 +17,7 @@ Same goes for the Deep Learning technologies, if you really (like reeaally) want
 ## List of topics implemented from scratch.
 
 ### Intro to Deep Learning.
-- [Understanding Percepron - Linear Regression.](01.%20Linear%20Regression%20-%20MXNet.ipynb)
+- [Understanding Percepron - Linear Regression.](01.%20Intro%20To%20Deep%20Learning/01.%20Linear%20Regression%20-%20MXNet.ipynb)
 - [Binary Classification - Logistic Regression.](01.%20Intro%20To%20Deep%20Learning/02.%20Logistic%20-%20MXNetRegression%20-%20MXNet.ipynb)
 - [Multiclass Classification - Softmax Regression.](01.%20Intro%20To%20Deep%20Learning/04.%20Multilayer%20-%20MXNetNeural%20-%20MXNetNetworks%20-%20MXNet.ipynb)
 - [The Modern Deep Learning - Neural Networks.](01.%20Intro%20To%20Deep%20Learning/04.%20Multilayer%20-%20MXNetNeural%20-%20MXNetNetworks%20-%20MXNet.ipynb)
