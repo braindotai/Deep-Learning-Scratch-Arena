@@ -33,6 +33,12 @@ Same goes for the Deep Learning technologies, if you really (like reeaally) want
 - [Nadam Optimizer.](02.%20Gradient%20Descent%20Variants/08.%20Nadam%20-%20MXNet.ipynb)
 - [AdaMax Optimizer.](02.%20Gradient%20Descent%20Variants/09.%20AdaMax%20-%20MXNet.ipynb)
 
+### Learning Rate Decay Methods.
+- Time Based Decay. __(To be implemented)__
+- Step Decay Decay. __(To be implemented)__
+- Exponential Decay. __(To be implemented)__
+- Time Based Decay. __(To be implemented)__
+
 ### Preventing Overfitting.
 - [L1 Regularization.](03.%20Preventing%20Overfitting/01.%20Regularization%20-%20MXNet.ipynb)
 - [L2 Regularization.](03.%20Preventing%20Overfitting/01.%20Regularization%20-%20MXNet.ipynb)
@@ -62,8 +68,9 @@ Same goes for the Deep Learning technologies, if you really (like reeaally) want
 ### Generative Models.
 - [Autoencoder.](07.%20Generative%20models/01.%20Autoencoder%20MXNet.ipynb)
 - [Denoising Autoencoder.](07.%20Generative%20models/02.%20Denoising%20Autoencoder%20-%20MXNet.ipynb)
-- [Variational Autoencoder.](07.%20Generative%20models/03.%20Variational%20Autoencoder%20-%20MXNet.ipynb)
-- [Generative Adversarial Networks.](07.%20Generative%20models/04.%20Generative%20Adversarial%20Networks%20-%20MXNet.ipynb)
+- [Sparse Autoencoder.](07.%20Generative%20models/03.%20Sparse%20Autoencoder%20-%20MXNet.ipynb)
+- [Variational Autoencoder.](07.%20Generative%20models/04.%20Variational%20Autoencoder%20-%20MXNet.ipynb)
+- [Generative Adversarial Networks.](07.%20Generative%20models/05.%20Generative%20Adversarial%20Networks%20-%20MXNet.ipynb)
 
 
 ## How to run provided notebooks?
