@@ -40,10 +40,10 @@ Same goes for the Deep Learning technologies, if you really (like reeaally) want
 - [Cyclic Decay.](03.%20Learning%20Rate%20Decay%20Methods/04.%20Cyclic%20Decay%20-%20MXNet.ipynb)
 
 ### Preventing Overfitting.
-- [L1 Regularization.](03.%20Preventing%20Overfitting/01.%20Regularization%20-%20MXNet.ipynb)
-- [L2 Regularization.](03.%20Preventing%20Overfitting/01.%20Regularization%20-%20MXNet.ipynb)
-- [Dropout.](03.%20Preventing%20Overfitting/02.%20Dropout%20-%20MXNet.ipynb)
-- [DropConnect.](03.%20Preventing%20Overfitting/03.%20DropConnect%20-%20MXNet.ipynb)
+- [L1 Regularization.](04.%20Preventing%20Overfitting/01.%20Regularization%20-%20MXNet.ipynb)
+- [L2 Regularization.](04.%20Preventing%20Overfitting/01.%20Regularization%20-%20MXNet.ipynb)
+- [Dropout.](04.%20Preventing%20Overfitting/02.%20Dropout%20-%20MXNet.ipynb)
+- [DropConnect.](04.%20Preventing%20Overfitting/03.%20DropConnect%20-%20MXNet.ipynb)
 
 ### Making Deep Learning Learn Faster.
 - [Batch Normalization.](04.%20Making%20Deep%20Learing%20Learn%20Faster/01.%20Batch%20Normalization%20-%20MXNet.ipynb)
