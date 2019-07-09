@@ -58,9 +58,9 @@ Same goes for the Deep Learning technologies, if you really (like reeaally) want
 - [Bidirectional Recurrent Neural Networks.](05.%20Recurrent%20Neural%20Networks/06.%20Bidirectional%20Recurrent%20Neural%20Networks%20-%20MXNet.ipynb)
 
 ### Convolutional Neural Networks.
-- [Convolutional.](06.%20Convolutional%20Neural%20Networks/01.%20Convolutional%20Neural%20Networks%20-%20MXNet.ipynb)
-- [Strides.](06.%20Convolutional%20Neural%20Networks/01.%20Convolutional%20Neural%20Networks%20-%20MXNet.ipynb)
-- [Padding.](06.%20Convolutional%20Neural%20Networks/01.%20Convolutional%20Neural%20Networks%20-%20MXNet.ipynb)
+- [Understanding Convolutional.](06.%20Convolutional%20Neural%20Networks/01.%20Convolutional%20Neural%20Networks%20-%20MXNet.ipynb)
+- [Convolutional with Strides.](06.%20Convolutional%20Neural%20Networks/01.%20Convolutional%20Neural%20Networks%20-%20MXNet.ipynb)
+- [Convolutional with Padding.](06.%20Convolutional%20Neural%20Networks/01.%20Convolutional%20Neural%20Networks%20-%20MXNet.ipynb)
 - [Maxpool.](06.%20Convolutional%20Neural%20Networks/01.%20Convolutional%20Neural%20Networks%20-%20MXNet.ipynb)
 - [Average Pool.](06.%20Convolutional%20Neural%20Networks/01.%20Convolutional%20Neural%20Networks%20-%20MXNet.ipynb)
 - [Convolutional Neural Networks.](06.%20Convolutional%20Neural%20Networks/01.%20Convolutional%20Neural%20Networks%20-%20MXNet.ipynb)
