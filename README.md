@@ -46,31 +46,31 @@ Same goes for the Deep Learning technologies, if you really (like reeaally) want
 - [DropConnect.](04.%20Preventing%20Overfitting/03.%20DropConnect%20-%20MXNet.ipynb)
 
 ### Making Deep Learning Learn Faster.
-- [Batch Normalization.](04.%20Making%20Deep%20Learing%20Learn%20Faster/01.%20Batch%20Normalization%20-%20MXNet.ipynb)
-- [Layer Normalization.](04.%20Making%20Deep%20Learing%20Learn%20Faster/02.%20Layer%20Normalization%20-%20MXNet.ipynb)
+- [Batch Normalization.](05.%20Making%20Deep%20Learing%20Learn%20Faster/01.%20Batch%20Normalization%20-%20MXNet.ipynb)
+- [Layer Normalization.](05.%20Making%20Deep%20Learing%20Learn%20Faster/02.%20Layer%20Normalization%20-%20MXNet.ipynb)
 
 ### Recurrent Neural Networks. 
-- [Recurrent Neural Networks (RNN).](05.%20Recurrent%20Neural%20Networks/01.%20Recurrent%20Neural%20Networks%20-%20MXNet.ipynb)
-- [Long Short Term Memory Cell (LSTM).](05.%20Recurrent%20Neural%20Networks/02.%20Long%20Short%20Term%20Memory%20-%20MXNet.ipynb)
-- [Gated Recurrent Unit (GRU).](05.%20Recurrent%20Neural%20Networks/03.%20Gated%20Recurrent%20Unit%20-%20MXNet.ipynb)
-- [Sequence to Sequence.](05.%20Recurrent%20Neural%20Networks/04.%20Sequence%20to%20Sequence%20-%20MXNet.ipynb)
-- [Multilayer Recurrent Neural Networks.](05.%20Recurrent%20Neural%20Networks/05.%20Multilayer%20Recurrent%20Neural%20Networks%20MXNet.ipynb)
-- [Bidirectional Recurrent Neural Networks.](05.%20Recurrent%20Neural%20Networks/06.%20Bidirectional%20Recurrent%20Neural%20Networks%20-%20MXNet.ipynb)
+- [Recurrent Neural Networks (RNN).](06.%20Recurrent%20Neural%20Networks/01.%20Recurrent%20Neural%20Networks%20-%20MXNet.ipynb)
+- [Long Short Term Memory Cell (LSTM).](06.%20Recurrent%20Neural%20Networks/02.%20Long%20Short%20Term%20Memory%20-%20MXNet.ipynb)
+- [Gated Recurrent Unit (GRU).](06.%20Recurrent%20Neural%20Networks/03.%20Gated%20Recurrent%20Unit%20-%20MXNet.ipynb)
+- [Sequence to Sequence.](06.%20Recurrent%20Neural%20Networks/04.%20Sequence%20to%20Sequence%20-%20MXNet.ipynb)
+- [Multilayer Recurrent Neural Networks.](06.%20Recurrent%20Neural%20Networks/05.%20Multilayer%20Recurrent%20Neural%20Networks%20MXNet.ipynb)
+- [Bidirectional Recurrent Neural Networks.](06.%20Recurrent%20Neural%20Networks/06.%20Bidirectional%20Recurrent%20Neural%20Networks%20-%20MXNet.ipynb)
 
 ### Convolutional Neural Networks.
-- [Understanding Convolutional.](06.%20Convolutional%20Neural%20Networks/01.%20Understanding%20Convolutional%20-%20MXNet.ipynb)
-- [Convolutional with Strides.](06.%20Convolutional%20Neural%20Networks/01.%20Convolutional%20with%20Strides%20-%20MXNet.ipynb)
-- [Convolutional with Padding.](06.%20Convolutional%20Neural%20Networks/01.%20Convolutional%20with%20Padding%20-%20MXNet.ipynb)
-- [Max Pooling.](06.%20Convolutional%20Neural%20Networks/01.%20Max%20Pooling%20-%20MXNet.ipynb)
-- [Average Pooling.](06.%20Convolutional%20Neural%20Networks/01.%20Average%20Pooling%20-%20MXNet.ipynb)
+- [Understanding Convolutional.](07.%20Convolutional%20Neural%20Networks/01.%20Understanding%20Convolutional%20-%20MXNet.ipynb)
+- [Convolutional with Strides.](07.%20Convolutional%20Neural%20Networks/01.%20Convolutional%20with%20Strides%20-%20MXNet.ipynb)
+- [Convolutional with Padding.](07.%20Convolutional%20Neural%20Networks/01.%20Convolutional%20with%20Padding%20-%20MXNet.ipynb)
+- [Max Pooling.](07.%20Convolutional%20Neural%20Networks/01.%20Max%20Pooling%20-%20MXNet.ipynb)
+- [Average Pooling.](07.%20Convolutional%20Neural%20Networks/01.%20Average%20Pooling%20-%20MXNet.ipynb)
 - Convolutional Neural Networks.__(To be implemented)__
 
 ### Generative Models.
-- [Autoencoder.](07.%20Generative%20models/01.%20Autoencoder%20MXNet.ipynb)
-- [Denoising Autoencoder.](07.%20Generative%20models/02.%20Denoising%20Autoencoder%20-%20MXNet.ipynb)
-- [Sparse Autoencoder.](07.%20Generative%20models/03.%20Sparse%20Autoencoder%20-%20MXNet.ipynb)
-- [Variational Autoencoder.](07.%20Generative%20models/04.%20Variational%20Autoencoder%20-%20MXNet.ipynb)
-- [Generative Adversarial Networks.](07.%20Generative%20models/05.%20Generative%20Adversarial%20Networks%20-%20MXNet.ipynb)
+- [Autoencoder.](08.%20Generative%20models/01.%20Autoencoder%20MXNet.ipynb)
+- [Denoising Autoencoder.](08.%20Generative%20models/02.%20Denoising%20Autoencoder%20-%20MXNet.ipynb)
+- [Sparse Autoencoder.](08.%20Generative%20models/03.%20Sparse%20Autoencoder%20-%20MXNet.ipynb)
+- [Variational Autoencoder.](08.%20Generative%20models/04.%20Variational%20Autoencoder%20-%20MXNet.ipynb)
+- [Generative Adversarial Networks.](08.%20Generative%20models/05.%20Generative%20Adversarial%20Networks%20-%20MXNet.ipynb)
 
 
 ## How to run provided notebooks?
