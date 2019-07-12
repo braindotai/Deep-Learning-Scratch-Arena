@@ -152,3 +152,7 @@ Here are some very useful resources I've curated so far. First we will learn som
 - Implement all above algorithms from scratch in Pytorch.
 - Provide resources to learn topics mentioned above.
 - Add more explanations to notebooks for better understanding.
+
+## Author
+
+Rishik Mourya
