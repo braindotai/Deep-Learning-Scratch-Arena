@@ -96,54 +96,54 @@ Here are some very useful resources I've curated so far. First we will learn som
 
 1. [Deep Learning For Beginners by Andrew Ng](https://www.youtube.com/watch?v=CS4cs9xVecg&list=PLkDaE6sCZn6Ec-XTbcX1uRg2_u4xOEky0)
 
-Its a full course for beginners by Prof Andrew Ng, this course provides the glimps to the world of AI.
+	Its a full course for beginners by Prof Andrew Ng, this course provides the glimps to the world of AI.
 
 2. [Deep Learning For Intermediates by Andrew Ng](https://www.youtube.com/watch?v=1waHlpKiNyY&list=PLkDaE6sCZn6Hn0vK8co82zjQtt3T2Nkqc)
 
-Its a full course for intermediates by Prof Andrew Ng, this course provides techniques to improve Deep Learning models.
+	Its a full course for intermediates by Prof Andrew Ng, this course provides techniques to improve Deep Learning models.
 
 3. [Convolutional Neural Networks by Andrew Ng](https://www.youtube.com/watch?v=ArPaAX_PhIs&list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF)
 
-Its a full course on Convolutional Neural Networks by Prof Andrew Ng, this course provides great explanations and examples for the topic with great simplicity and helpful guides.
+	Its a full course on Convolutional Neural Networks by Prof Andrew Ng, this course provides great explanations and examples for the topic with great simplicity and helpful guides.
 
 4. [Recurrent Neural Networks by Andrew Ng](https://www.youtube.com/watch?v=efWlOCE_6HY&list=PL1w8k37X_6L_s4ncq-swTBvKDWnRSrinI&index=2)
 
-Its a full course on Recurrent Neural Networks by Prof Andrew Ng, this course provides explanations to why we need sequence models and what are their use cases and how do they work.
+	Its a full course on Recurrent Neural Networks by Prof Andrew Ng, this course provides explanations to why we need sequence models and what are their use cases and how do they work.
 
 5. [An Outstanding course for Linear Algebra by Prof W. Gilbert Strange](https://www.youtube.com/watch?v=ZK3O402wf1c&list=PLE7DDD91010BC51F8)
 
-This course is by far my best course on Linear Algebra on the planet. Prof Strange has done a phenomenal job, just watch his videos and I bet you'd see a rainbow with a unicorn.
+	This course is by far my best course on Linear Algebra on the planet. Prof Strange has done a phenomenal job, just watch his videos and I bet you'd see a rainbow with a unicorn.
 
 6. [An Another Outstanding Course on Linear Algera By 3Blue1Brown](https://www.youtube.com/watch?v=kjBOesZCoqc&list=PL0-GT3co4r2y2YErbmuJw2L5tW4Ew2O5B)
 
-This course introduces the "Essence of linear algebra" series, aimed at animating the geometric intuitions underlying many of the topics taught in a standard linear algebra course.
+	This course introduces the "Essence of linear algebra" series, aimed at animating the geometric intuitions underlying many of the topics taught in a standard linear algebra course.
 
 7. [Course on Calculus by 3Blue1Brown](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PL0-GT3co4r2wlh6UHTUeQsrf3mlS2lk6x)
 
-What might it feel like to invent calculus?
+	What might it feel like to invent calculus?
 
 
 8. [A Great Course on Deep Learning by MIT](https://www.youtube.com/watch?v=5v1JnYv_yWs&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI&index=1)
 
-Its a full course on Deep Learning by MIT, this course provides great explanations to various deep learning topics like GANs... etc. Note: only watch first 4 lectures because afterwards they are explaining an another AI field know as Reinforcement Learning, which we will cover later.
+	Its a full course on Deep Learning by MIT, this course provides great explanations to various deep learning topics like GANs... etc. Note: only watch first 4 lectures because afterwards they are explaining an another AI field know as Reinforcement Learning, which we will cover later.
 
 9. [Deep Learning Course by Stanford](https://www.youtube.com/watch?v=PySo_6S4ZAg&list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb)
 
-This course covers introduction to deep learning and its applications like Adversarial Attacks, Interpretability and Health Care... etc. Note: skip the Reinforcement Learning part for now, we will cover that later.
+	This course covers introduction to deep learning and its applications like Adversarial Attacks, Interpretability and Health Care... etc. Note: skip the Reinforcement Learning part for now, we will cover that later.
 
 10. [An Awesome Book on Deep Learning](https://www.d2l.ai/)
 
-This book is an interactive deep learning book with code, math, and discussions, for beginners as well as for experts. It provides crystal clear explaination for all the topics along with hands on coding tutorials. If you got question regarding the topic then you can ask it to the forum.
+	This book is an interactive deep learning book with code, math, and discussions, for beginners as well as for experts. It provides crystal clear explaination for all the topics along with hands on coding tutorials. If you got question regarding the topic then you can ask it to the forum.
 
 11. [Another Great Book on Deep Learning by Ian Goodfellow](https://www.deeplearningbook.org/)
 
-This book introduces to Deep Learning by first teaching the crucial math required for Deep Learning(mainly for research), for example:-
+	This book introduces to Deep Learning by first teaching the crucial math required for Deep Learning(mainly for research), for example:-
 
-- Linear Algebra
-- Probability
-- Numerical Computation... etc
+	- Linear Algebra
+	- Probability
+	- Numerical Computation... etc
 
-This book would definitely help you to build the foundational understanding of mathematics for research in Deep Learning.
+	This book would definitely help you to build the foundational understanding of mathematics for research in Deep Learning.
 
 
 ## TODO
