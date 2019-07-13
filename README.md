@@ -63,7 +63,6 @@ Same goes for the Deep Learning technologies, if you really (like reeaally) want
 - [Convolutional with Strides.](07.%20Convolutional%20Neural%20Networks/03.%20Convolution%20with%20Padding%20-%20MXNet.ipynb)
 - [Max Pooling.](07.%20Convolutional%20Neural%20Networks/04.%20Max%20Pooling%20-%20MXNet.ipynb)
 - [Average Pooling.](07.%20Convolutional%20Neural%20Networks/05.%20Average%20Pooling%20-%20MXNet.ipynb)
-- Convolutional Neural Networks.__(To be implemented)__
 
 ### Generative Models.
 - [Autoencoder.](08.%20Generative%20models/01.%20Autoencoder%20MXNet.ipynb)
