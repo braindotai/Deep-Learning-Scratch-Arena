@@ -8,6 +8,12 @@ My goal is to provide high quality Scratch Implementations of the fundamentals o
 
 ## Why Scratch Implemantation?
 
+- It helps us to understand the core working of an algorithm better.
+- We could try to improve an existing algorithm both for accuracy and efficiency.
+- We could implement our own version of an existing algorithm with some new features via experiments.
+- We could even invent new algorithms that could outperform previous algorithms achieving SOTA(state of the art) results.
+- Thus we could actually contribute to the field.
+
 Watch https://youtu.be/l9RWTMNnvi4?t=130,
 The God Father of AI Geoffrey Hinton said "If you want to understand a really complicated device like brain, then you should build one".
 
