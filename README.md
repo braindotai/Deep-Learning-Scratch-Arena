@@ -160,4 +160,4 @@ Here are some very useful resources I've curated so far. First we will learn som
 
 # Author
 
-##__Rishik Mourya__
+## __Rishik Mourya__
