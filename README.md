@@ -3,7 +3,7 @@
 
 ## What is Deep Learning Scratch Arena?
 
-My goal is to provide high quality Scratch Implementations of the fundamentals of Deep Learning and its applications, with interactive well documentated jupyter notebooks. All notebooks comes along with implementations using Tensorflow, MXNet and Pytorch.
+My goal is to provide high quality Scratch Implementations of the fundamentals of Deep Learning and its applications, with interactive well documentated jupyter notebooks. All notebooks come along with implementations using Tensorflow, MXNet and Pytorch.
 
 
 ## Why Scratch Implemantation?
@@ -208,4 +208,4 @@ Here are some very useful resources I've curated so far. First we will learn som
 
 # Author
 
-Rishik Mourya
+## __Rishik Mourya__
