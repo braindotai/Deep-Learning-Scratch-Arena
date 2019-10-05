@@ -69,6 +69,7 @@ Same goes for the Deep Learning technologies, if you really (like reeaally) want
 - [Convolutional with Strides.](07.%20Convolutional%20Neural%20Networks/03.%20Convolution%20with%20Padding%20-%20MXNet.ipynb)
 - [Max Pooling.](07.%20Convolutional%20Neural%20Networks/04.%20Max%20Pooling%20-%20MXNet.ipynb)
 - [Average Pooling.](07.%20Convolutional%20Neural%20Networks/05.%20Average%20Pooling%20-%20MXNet.ipynb)
+- Understading Deconvolution __(To be implemented)__
 
 ### Generative Models.
 - [Autoencoder.](08.%20Generative%20models/01.%20Autoencoder%20MXNet.ipynb)
@@ -76,6 +77,52 @@ Same goes for the Deep Learning technologies, if you really (like reeaally) want
 - [Sparse Autoencoder.](08.%20Generative%20models/03.%20Sparse%20Autoencoder%20-%20MXNet.ipynb)
 - [Variational Autoencoder.](08.%20Generative%20models/04.%20Variational%20Autoencoder%20-%20MXNet.ipynb)
 - [Generative Adversarial Networks.](08.%20Generative%20models/05.%20Generative%20Adversarial%20Networks%20-%20MXNet.ipynb)
+- Deep Convolutional GAN __(To be implemented)__
+- Conditional GAN __(To be implemented)__
+- Info GAN __(To be implemented)__
+- Cyclic GAN __(To be implemented)__
+- Disco GAN __(To be implemented)__
+- Bi GAN __(To be implemented)__
+- W GAN __(To be implemented)__
+
+### Computer Vision
+- LeNet __(To be implemented)__
+- AlexNet __(To be implemented)__
+- Network in Network __(To be implemented)__
+- VGG __(To be implemented)__
+- Inception __(To be implemented)__
+- ResNet __(To be implemented)__
+- Xception __(To be implemented)__
+- Inception-ResNet __(To be implemented)__
+- DenseNet __(To be implemented)__
+
+### Applications of Computer Vision
+- Transfer Learning __(To be implemented)__ 
+- Image Classification __(To be implemented)__
+- Object Detection __(To be implemented)__
+- Objection Segmentation __(To be implemented)__
+- Style Transfer __(To be implemented)__
+- Image Colorization __(To be implemented)__
+- Image Reconstruction __(To be implemented)__
+- Text to Image __(To be implemented)__
+- Image Captioning __(To be implemented)__
+
+### Natural Language Processing
+- Word Embeddings __(To be implemented)__
+- Embedding Matrix __(To be implemented)__
+- Word to Vec __(To be implemented)__
+- GloVe __(To be implemented)__
+- Negative Sampling __(To be implemented)__
+- Attention Mechanism __(To be implemented)__
+
+### Applications of Natural Language Processing
+- Sentiment Analysis __(To be implemented)__
+- Named Entity Recognition __(To be implemented)__
+- Machine Translation __(To be implemented)__
+- Text Summarization __(To be implemented)__
+- Visual Question Answering __(To be implemented)__
+- Image Captioning __(To be implemented)__
+- Music Generation __(To be implemented)__
 
 
 ## How to run provided notebooks?
@@ -85,6 +132,7 @@ If you don't have the GPU, then follow the steps as bellow:-
 
 - Go to https://colab.research.google.com
 - Sign In using your google account.
+- Clone the repository by running `git clone`
 - From the menu top left, Go to "__File -> Upload notebook -> Choose File__".
 - Then select the notebook you want to run located in your computer and click "__Open__".
 - Wait for a while.
@@ -138,11 +186,11 @@ Here are some very useful resources I've curated so far. First we will learn som
 
 10. [An Awesome Book on Deep Learning](https://www.d2l.ai/)
 
-	This book is an interactive deep learning book with code, math, and discussions, for beginners as well as for experts. It provides crystal clear explaination for all the topics along with hands on coding tutorials. If you got question regarding the topic then you can ask it to the forum.
+	This book is an interactive deep learning book with codes, maths, and discussions, for beginners as well as for experts. It provides crystal clear explaination for all the topics along with hands on coding tutorials. If you got question regarding the topic then you can ask it to the forum as well.
 
 11. [Another Great Book on Deep Learning by Ian Goodfellow](https://www.deeplearningbook.org/)
 
-	This book introduces to Deep Learning by first teaching the crucial math required for Deep Learning(mainly for research), for example:-
+	This book introduces to Deep Learning by first teaching the crucial math required for research in Deep Learning, for example:-
 
 	- Linear Algebra
 	- Probability
