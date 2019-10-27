@@ -77,8 +77,8 @@ Same goes for the Deep Learning technologies, if you really (like reeaally) want
 - [Sparse Autoencoder.](08.%20Generative%20models/03.%20Sparse%20Autoencoder%20-%20MXNet.ipynb)
 - [Variational Autoencoder.](08.%20Generative%20models/04.%20Variational%20Autoencoder%20-%20MXNet.ipynb)
 - [Generative Adversarial Networks.](08.%20Generative%20models/05.%20Generative%20Adversarial%20Networks%20-%20MXNet.ipynb)
-- Deep Convolutional GAN __(To be implemented)__
-- Conditional GAN __(To be implemented)__
+- [Deep Convolutional GAN](08.%20Generative%20models/05.%20Deep%20Convolutional%20GAN%20-%20MXNet.ipynb)
+- [Conditional GAN](08.%20Generative%20models/05.%20Conditional%20GAN%20-%20MXNet.ipynb)
 - Info GAN __(To be implemented)__
 - Cyclic GAN __(To be implemented)__
 - Disco GAN __(To be implemented)__
