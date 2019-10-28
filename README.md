@@ -65,8 +65,8 @@ Same goes for the Deep Learning technologies, if you really (like reeaally) want
 
 ### Convolutional Neural Networks.
 - [Understanding Convolutional.](07.%20Convolutional%20Neural%20Networks/01.%20Understanding%20Convolutional%20-%20MXNet.ipynb)
-- [Convolutional with Padding.](07.%20Convolutional%20Neural%20Networks/03.%20Convolutional%20with%20Padding%20-%20MXNet.ipynb)
-- [Convolutional with Strides.](07.%20Convolutional%20Neural%20Networks/03.%20Convolution%20with%20Padding%20-%20MXNet.ipynb)
+- [Convolution with Padding.](07.%20Convolutional%20Neural%20Networks/03.%20Convolution%20with%20Padding%20-%20MXNet.ipynb)
+- [Convolution with Strides.](07.%20Convolutional%20Neural%20Networks/02.%20Convolution%20with%20Strides%20-%20MXNet.ipynb)
 - [Max Pooling.](07.%20Convolutional%20Neural%20Networks/04.%20Max%20Pooling%20-%20MXNet.ipynb)
 - [Average Pooling.](07.%20Convolutional%20Neural%20Networks/05.%20Average%20Pooling%20-%20MXNet.ipynb)
 - Understading Deconvolution __(To be implemented)__
