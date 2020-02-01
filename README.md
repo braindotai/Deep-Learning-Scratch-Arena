@@ -81,7 +81,7 @@ Same goes for the Deep Learning technologies, if you really (like reeaally) want
 - [Conditional GAN](08.%20Generative%20models/07.%20Conditional%20GAN%20-%20MXNet.ipynb)
 - [AC GAN](08.%20Generative%20models/08.%20AC%20GAN%20-%20MXNet.ipynb)
 - [LS GAN](08.%20Generative%20models/09.%20LS%20GAN%20-%20MXNet.ipynb)
-- Info GAN __(To be implemented)__
+- [Info GAN](08.%20Generative%20models/10.%20Info%20GAN%20-%20MXNet.ipynb)
 - Cyclic GAN __(To be implemented)__
 - Disco GAN __(To be implemented)__
 - Bi GAN __(To be implemented)__
