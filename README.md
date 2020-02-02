@@ -88,8 +88,8 @@ Same goes for the Deep Learning technologies, if you really (like reeaally) want
 - W GAN __(To be implemented)__
 
 ### Computer Vision
-- LeNet __(To be implemented)__
-- AlexNet __(To be implemented)__
+- [LeNet](09.%20Computer%20Vision/01.%20LeNet%20-%20MXNet.ipynb)
+- [AlexNet](09.%20Computer%20Vision/02.%20AlexNet%20-%20MXNet.ipynb)
 - Network in Network __(To be implemented)__
 - VGG __(To be implemented)__
 - Inception __(To be implemented)__
