@@ -90,8 +90,8 @@ Same goes for the Deep Learning technologies, if you really (like reeaally) want
 ### Computer Vision
 - [LeNet](09.%20Computer%20Vision/01.%20LeNet%20-%20MXNet.ipynb)
 - [AlexNet](09.%20Computer%20Vision/02.%20AlexNet%20-%20MXNet.ipynb)
+- [VGG](09.%20Computer%20Vision/03.%20VGG%20Net%20-%20MXNet.ipynb)
 - Network in Network __(To be implemented)__
-- VGG __(To be implemented)__
 - Inception __(To be implemented)__
 - ResNet __(To be implemented)__
 - Xception __(To be implemented)__
