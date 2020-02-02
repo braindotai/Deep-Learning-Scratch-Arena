@@ -69,7 +69,7 @@ Same goes for the Deep Learning technologies, if you really (like reeaally) want
 - [Convolution with Strides.](07.%20Convolutional%20Neural%20Networks/02.%20Convolution%20with%20Strides%20-%20MXNet.ipynb)
 - [Max Pooling.](07.%20Convolutional%20Neural%20Networks/04.%20Max%20Pooling%20-%20MXNet.ipynb)
 - [Average Pooling.](07.%20Convolutional%20Neural%20Networks/05.%20Average%20Pooling%20-%20MXNet.ipynb)
-- Understading Deconvolution __(To be implemented)__
+- Understading Deconvolution. __(To be implemented)__
 
 ### Generative Models.
 - [Autoencoder.](08.%20Generative%20models/01.%20Autoencoder%20MXNet.ipynb)
@@ -77,54 +77,54 @@ Same goes for the Deep Learning technologies, if you really (like reeaally) want
 - [Sparse Autoencoder.](08.%20Generative%20models/03.%20Sparse%20Autoencoder%20-%20MXNet.ipynb)
 - [Variational Autoencoder.](08.%20Generative%20models/04.%20Variational%20Autoencoder%20-%20MXNet.ipynb)
 - [Generative Adversarial Networks.](08.%20Generative%20models/05.%20Generative%20Adversarial%20Networks%20-%20MXNet.ipynb)
-- [Deep Convolutional GAN](08.%20Generative%20models/06.%20Deep%20Convolutional%20GAN%20-%20MXNet.ipynb)
-- [Conditional GAN](08.%20Generative%20models/07.%20Conditional%20GAN%20-%20MXNet.ipynb)
-- [AC GAN](08.%20Generative%20models/08.%20AC%20GAN%20-%20MXNet.ipynb)
-- [LS GAN](08.%20Generative%20models/09.%20LS%20GAN%20-%20MXNet.ipynb)
-- [Info GAN](08.%20Generative%20models/10.%20Info%20GAN%20-%20MXNet.ipynb)
-- Cyclic GAN __(To be implemented)__
-- Disco GAN __(To be implemented)__
-- Bi GAN __(To be implemented)__
-- W GAN __(To be implemented)__
+- [Deep Convolutional GAN.](08.%20Generative%20models/06.%20Deep%20Convolutional%20GAN%20-%20MXNet.ipynb)
+- [Conditional GAN.](08.%20Generative%20models/07.%20Conditional%20GAN%20-%20MXNet.ipynb)
+- [AC GAN.](08.%20Generative%20models/08.%20AC%20GAN%20-%20MXNet.ipynb)
+- [LS GAN.](08.%20Generative%20models/09.%20LS%20GAN%20-%20MXNet.ipynb)
+- [Info GAN.](08.%20Generative%20models/10.%20Info%20GAN%20-%20MXNet.ipynb)
+- Cyclic GAN. __(To be implemented)__
+- Disco GAN. __(To be implemented)__
+- Bi GAN. __(To be implemented)__
+- W GAN. __(To be implemented)__
 
 ### Computer Vision
-- [LeNet](09.%20Computer%20Vision/01.%20LeNet%20-%20MXNet.ipynb)
-- [AlexNet](09.%20Computer%20Vision/02.%20AlexNet%20-%20MXNet.ipynb)
-- [VGG](09.%20Computer%20Vision/03.%20VGG%20Net%20-%20MXNet.ipynb)
-- [Network in Network](09.%20Computer%20Vision/04.%20Network%20in%20Network%20-%20MXNet.ipynb)
-- Inception __(To be implemented)__
-- ResNet __(To be implemented)__
-- Xception __(To be implemented)__
-- Inception-ResNet __(To be implemented)__
-- DenseNet __(To be implemented)__
+- [LeNet.](09.%20Computer%20Vision/01.%20LeNet%20-%20MXNet.ipynb)
+- [AlexNet.](09.%20Computer%20Vision/02.%20AlexNet%20-%20MXNet.ipynb)
+- [VGG.](09.%20Computer%20Vision/03.%20VGG%20Net%20-%20MXNet.ipynb)
+- [Network in Network.](09.%20Computer%20Vision/04.%20Network%20in%20Network%20-%20MXNet.ipynb)
+- [Inception Network.](09.%20Computer%20Vision/05.%20Inception%20Network%20-%20MXNet.ipynb)
+- ResNet. __(To be implemented)__
+- Xception. __(To be implemented)__
+- Inception-ResNet. __(To be implemented)__
+- DenseNet. __(To be implemented)__
 
 ### Applications of Computer Vision
-- Transfer Learning __(To be implemented)__ 
-- Image Classification __(To be implemented)__
-- Object Detection __(To be implemented)__
-- Objection Segmentation __(To be implemented)__
-- Style Transfer __(To be implemented)__
-- Image Colorization __(To be implemented)__
-- Image Reconstruction __(To be implemented)__
-- Text to Image __(To be implemented)__
-- Image Captioning __(To be implemented)__
+- Transfer Learning. __(To be implemented)__ 
+- Image Classification. __(To be implemented)__
+- Object Detection. __(To be implemented)__
+- Objection Segmentation. __(To be implemented)__
+- Style Transfer. __(To be implemented)__
+- Image Colorization. __(To be implemented)__
+- Image Reconstruction. __(To be implemented)__
+- Text to Image. __(To be implemented)__
+- Image Captioning. __(To be implemented)__
 
 ### Natural Language Processing
-- Word Embeddings __(To be implemented)__
-- Embedding Matrix __(To be implemented)__
-- Word to Vec __(To be implemented)__
-- GloVe __(To be implemented)__
-- Negative Sampling __(To be implemented)__
-- Attention Mechanism __(To be implemented)__
+- Word Embeddings. __(To be implemented)__
+- Embedding Matrix. __(To be implemented)__
+- Word to Vec. __(To be implemented)__
+- GloVe. __(To be implemented)__
+- Negative Sampling. __(To be implemented)__
+- Attention Mechanism. __(To be implemented)__
 
 ### Applications of Natural Language Processing
-- Sentiment Analysis __(To be implemented)__
-- Named Entity Recognition __(To be implemented)__
-- Machine Translation __(To be implemented)__
-- Text Summarization __(To be implemented)__
-- Visual Question Answering __(To be implemented)__
-- Image Captioning __(To be implemented)__
-- Music Generation __(To be implemented)__
+- Sentiment Analysis. __(To be implemented)__
+- Named Entity Recognition. __(To be implemented)__
+- Machine Translation. __(To be implemented)__
+- Text Summarization. __(To be implemented)__
+- Visual Question Answering. __(To be implemented)__
+- Image Captioning. __(To be implemented)__
+- Music Generation. __(To be implemented)__
 
 
 ## How to run provided notebooks?
