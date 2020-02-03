@@ -93,7 +93,7 @@ Same goes for the Deep Learning technologies, if you really (like reeaally) want
 - [VGG.](09.%20Computer%20Vision/03.%20VGG%20Net%20-%20MXNet.ipynb)
 - [Network in Network.](09.%20Computer%20Vision/04.%20Network%20in%20Network%20-%20MXNet.ipynb)
 - [Inception Network.](09.%20Computer%20Vision/05.%20Inception%20Network%20-%20MXNet.ipynb)
-- ResNet. __(To be implemented)__
+- [ResNet.](09.%20Computer%20Vision/06.%20Residual%20Network%20-%20MXNet.ipynb)
 - Xception. __(To be implemented)__
 - Inception-ResNet. __(To be implemented)__
 - DenseNet. __(To be implemented)__
