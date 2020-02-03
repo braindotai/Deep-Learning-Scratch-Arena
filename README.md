@@ -94,7 +94,7 @@ Same goes for the Deep Learning technologies, if you really (like reeaally) want
 - [Network in Network.](09.%20Computer%20Vision/04.%20Network%20in%20Network%20-%20MXNet.ipynb)
 - [Inception Network.](09.%20Computer%20Vision/05.%20Inception%20Network%20-%20MXNet.ipynb)
 - [ResNet.](09.%20Computer%20Vision/06.%20Residual%20Network%20-%20MXNet.ipynb)
-- DenseNet. __(To be implemented)__
+- [DenseNet.](09.%20Computer%20Vision/07.%20DenseNet%20-%20MXNet.ipynb)
 
 ### Applications of Computer Vision
 - Transfer Learning. __(To be implemented)__ 
