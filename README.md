@@ -98,7 +98,7 @@ Same goes for the Deep Learning technologies, if you really (like reeaally) want
 - [Data Augmentation.](09.%20Computer%20Vision/08.%20Data%20Augmentation%20-%20MXNet.ipynb)
 
 ### Applications of Computer Vision
-- Transfer Learning. __(To be implemented)__ 
+- [Transfer Learning.](10.%20Applications%20of%20Computer%20Vision/01.%20Transfer%20Learning%20-%20MXNet.ipynb)
 - Image Classification. __(To be implemented)__
 - Object Detection. __(To be implemented)__
 - Objection Segmentation. __(To be implemented)__
