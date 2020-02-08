@@ -99,12 +99,14 @@ Same goes for the Deep Learning technologies, if you really (like reeaally) want
 
 ### Applications of Computer Vision
 - [Image Classification.](10.%20Applications%20of%20Computer%20Vision/01.%20Image%20Classification%20-%20MXNet.ipynb)
-- [Transfer Learning.](10.%20Applications%20of%20Computer%20Vision/01.%20Transfer%20Learning%20-%20MXNet.ipynb)
+- [Transfer Learning.](10.%20Applications%20of%20Computer%20Vision/02.%20Transfer%20Learning%20-%20MXNet.ipynb)
+- Image Denoising. __(To be implemented)__
+- Image Resolution Inhancer. __(To be implemented)__
+- Image Reconstruction. __(To be implemented)__
+- Image Colorization. __(To be implemented)__
 - Object Detection. __(To be implemented)__
 - Objection Segmentation. __(To be implemented)__
 - Style Transfer. __(To be implemented)__
-- Image Colorization. __(To be implemented)__
-- Image Reconstruction. __(To be implemented)__
 - Text to Image. __(To be implemented)__
 - Image Captioning. __(To be implemented)__
 
