@@ -92,16 +92,16 @@ Same goes for the Deep Learning technologies, if you really (like reeaally) want
 - Understading Deconvolution. __(To be implemented)__
 
 ### Generative Models.
-- [Autoencoder](09.%20Generative%20models/01.%20Autoencoder%20MXNet.ipynb)
-- [Denoising Autoencoder](09.%20Generative%20models/02.%20Denoising%20Autoencoder%20-%20MXNet.ipynb)
-- [Sparse Autoencoder](09.%20Generative%20models/03.%20Sparse%20Autoencoder%20-%20MXNet.ipynb)
-- [Variational Autoencoder](09.%20Generative%20models/04.%20Variational%20Autoencoder%20-%20MXNet.ipynb)
-- [Generative Adversarial Networks](09.%20Generative%20models/05.%20Generative%20Adversarial%20Networks%20-%20MXNet.ipynb)
-- [Deep Convolutional GAN](09.%20Generative%20models/06.%20Deep%20Convolutional%20GAN%20-%20MXNet.ipynb)
-- [Conditional GAN](09.%20Generative%20models/07.%20Conditional%20GAN%20-%20MXNet.ipynb)
-- [AC GAN](09.%20Generative%20models/08.%20AC%20GAN%20-%20MXNet.ipynb)
-- [LS GAN](09.%20Generative%20models/09.%20LS%20GAN%20-%20MXNet.ipynb)
-- [Info GAN](09.%20Generative%20models/10.%20Info%20GAN%20-%20MXNet.ipynb)
+- [Autoencoder](09.%20Generative%20Models/01.%20Autoencoder%20MXNet.ipynb)
+- [Denoising Autoencoder](09.%20Generative%20Models/02.%20Denoising%20Autoencoder%20-%20MXNet.ipynb)
+- [Sparse Autoencoder](09.%20Generative%20Models/03.%20Sparse%20Autoencoder%20-%20MXNet.ipynb)
+- [Variational Autoencoder](09.%20Generative%20Models/04.%20Variational%20Autoencoder%20-%20MXNet.ipynb)
+- [Generative Adversarial Networks](09.%20Generative%20Models/05.%20Generative%20Adversarial%20Networks%20-%20MXNet.ipynb)
+- [Deep Convolutional GAN](09.%20Generative%20Models/06.%20Deep%20Convolutional%20GAN%20-%20MXNet.ipynb)
+- [Conditional GAN](09.%20Generative%20Models/07.%20Conditional%20GAN%20-%20MXNet.ipynb)
+- [AC GAN](09.%20Generative%20Models/08.%20AC%20GAN%20-%20MXNet.ipynb)
+- [LS GAN](09.%20Generative%20Models/09.%20LS%20GAN%20-%20MXNet.ipynb)
+- [Info GAN](09.%20Generative%20Models/10.%20Info%20GAN%20-%20MXNet.ipynb)
 - Cyclic GAN. __(To be implemented)__
 - Disco GAN. __(To be implemented)__
 - Bi GAN. __(To be implemented)__
