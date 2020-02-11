@@ -23,84 +23,84 @@ Same goes for the Deep Learning technologies, if you really (like reeaally) want
 ## List of topics implemented from scratch.
 
 ### Intro to Deep Learning.
-- [Understanding Percepron - Linear Regression.](01.%20Intro%20To%20Deep%20Learning/01.%20Linear%20Regression%20-%20MXNet.ipynb)
-- [Binary Classification - Logistic Regression.](01.%20Intro%20To%20Deep%20Learning/02.%20Logistic%20Regression%20-%20MXNet.ipynb)
-- [Multiclass Classification - Softmax Regression.](01.%20Intro%20To%20Deep%20Learning/03.%20Multiclass%20Softmax%20Classification%20-%20MXNet.ipynb)
-- [The Modern Deep Learning - Neural Networks.](01.%20Intro%20To%20Deep%20Learning/04.%20Multilayer%20Neural%20Networks%20-%20MXNet.ipynb)
+- [Understanding Percepron - Linear Regression](01.%20Intro%20To%20Deep%20Learning/01.%20Linear%20Regression%20-%20MXNet.ipynb)
+- [Binary Classification - Logistic Regression](01.%20Intro%20To%20Deep%20Learning/02.%20Logistic%20Regression%20-%20MXNet.ipynb)
+- [Multiclass Classification - Softmax Regression](01.%20Intro%20To%20Deep%20Learning/03.%20Multiclass%20Softmax%20Classification%20-%20MXNet.ipynb)
+- [The Modern Deep Learning - Neural Networks](01.%20Intro%20To%20Deep%20Learning/04.%20Multilayer%20Neural%20Networks%20-%20MXNet.ipynb)
 
 ### Gradient Descent Variants. 
-- [Momentum Optimizer.](02.%20Gradient%20Descent%20Variants/01.%20Momentum%20-%20MXNet.ipynb)
-- [Nesterov Accelerated Gradient Optimizer.](02.%20Gradient%20Descent%20Variants/02.%20Nesterov%20Accelerated%20Gradient%20-%20MXNet.ipynb)
-- [AdaGrad Optimizer.](02.%20Gradient%20Descent%20Variants/03.%20AdaGrad%20-%20MXNet.ipynb)
-- [AdaDelta Optimizer.](02.%20Gradient%20Descent%20Variants/04.%20AdaDelta%20-%20MXNet.ipynb)
-- [RMSProp Optimizer.](02.%20Gradient%20Descent%20Variants/05.%20RMSProp%20-%20MXNet.ipynb)
-- [Adam Optimizer.](02.%20Gradient%20Descent%20Variants/06.%20Adam%20-%20MXNet.ipynb)
-- [AMSGrad Optimizer.](02.%20Gradient%20Descent%20Variants/07.%20AMSGrad%20-%20MXNet.ipynb)
-- [Nadam Optimizer.](02.%20Gradient%20Descent%20Variants/08.%20Nadam%20-%20MXNet.ipynb)
-- [AdaMax Optimizer.](02.%20Gradient%20Descent%20Variants/09.%20AdaMax%20-%20MXNet.ipynb)
+- [Momentum Optimizer](02.%20Gradient%20Descent%20Variants/01.%20Momentum%20-%20MXNet.ipynb)
+- [Nesterov Accelerated Gradient Optimizer](02.%20Gradient%20Descent%20Variants/02.%20Nesterov%20Accelerated%20Gradient%20-%20MXNet.ipynb)
+- [AdaGrad Optimizer](02.%20Gradient%20Descent%20Variants/03.%20AdaGrad%20-%20MXNet.ipynb)
+- [AdaDelta Optimizer](02.%20Gradient%20Descent%20Variants/04.%20AdaDelta%20-%20MXNet.ipynb)
+- [RMSProp Optimizer](02.%20Gradient%20Descent%20Variants/05.%20RMSProp%20-%20MXNet.ipynb)
+- [Adam Optimizer](02.%20Gradient%20Descent%20Variants/06.%20Adam%20-%20MXNet.ipynb)
+- [AMSGrad Optimizer](02.%20Gradient%20Descent%20Variants/07.%20AMSGrad%20-%20MXNet.ipynb)
+- [Nadam Optimizer](02.%20Gradient%20Descent%20Variants/08.%20Nadam%20-%20MXNet.ipynb)
+- [AdaMax Optimizer](02.%20Gradient%20Descent%20Variants/09.%20AdaMax%20-%20MXNet.ipynb)
 
 ### Learning Rate Decay Methods.
-- [Time Decay.](03.%20Learning%20Rate%20Decay%20Methods/01.%20Time%20Decay%20-%20MXNet.ipynb)
-- [Step Decay.](03.%20Learning%20Rate%20Decay%20Methods/02.%20Step%20Decay%20-%20MXNet.ipynb)
-- [Exponential Decay.](03.%20Learning%20Rate%20Decay%20Methods/03.%20Exponential%20Decay%20-%20MXNet.ipynb)
-- [Cyclic Decay.](03.%20Learning%20Rate%20Decay%20Methods/04.%20Cyclic%20Decay%20-%20MXNet.ipynb)
+- [Time Decay](03.%20Learning%20Rate%20Decay%20Methods/01.%20Time%20Decay%20-%20MXNet.ipynb)
+- [Step Decay](03.%20Learning%20Rate%20Decay%20Methods/02.%20Step%20Decay%20-%20MXNet.ipynb)
+- [Exponential Decay](03.%20Learning%20Rate%20Decay%20Methods/03.%20Exponential%20Decay%20-%20MXNet.ipynb)
+- [Cyclic Decay](03.%20Learning%20Rate%20Decay%20Methods/04.%20Cyclic%20Decay%20-%20MXNet.ipynb)
 
 ### Preventing Overfitting.
-- [L1 Regularization.](04.%20Preventing%20Overfitting/01.%20Regularization%20-%20MXNet.ipynb)
-- [L2 Regularization.](04.%20Preventing%20Overfitting/01.%20Regularization%20-%20MXNet.ipynb)
-- [Dropout.](04.%20Preventing%20Overfitting/02.%20Dropout%20-%20MXNet.ipynb)
-- [DropConnect.](04.%20Preventing%20Overfitting/03.%20DropConnect%20-%20MXNet.ipynb)
+- [L1 Regularization](04.%20Preventing%20Overfitting/01.%20Regularization%20-%20MXNet.ipynb)
+- [L2 Regularization](04.%20Preventing%20Overfitting/01.%20Regularization%20-%20MXNet.ipynb)
+- [Dropout](04.%20Preventing%20Overfitting/02.%20Dropout%20-%20MXNet.ipynb)
+- [DropConnect](04.%20Preventing%20Overfitting/03.%20DropConnect%20-%20MXNet.ipynb)
 
 ### Making Deep Learning Learn Faster.
-- [Batch Normalization.](05.%20Making%20Deep%20Learing%20Learn%20Faster/01.%20Batch%20Normalization%20-%20MXNet.ipynb)
-- [Layer Normalization.](05.%20Making%20Deep%20Learing%20Learn%20Faster/02.%20Layer%20Normalization%20-%20MXNet.ipynb)
+- [Batch Normalization](05.%20Making%20Deep%20Learing%20Learn%20Faster/01.%20Batch%20Normalization%20-%20MXNet.ipynb)
+- [Layer Normalization](05.%20Making%20Deep%20Learing%20Learn%20Faster/02.%20Layer%20Normalization%20-%20MXNet.ipynb)
 
 ### Recurrent Neural Networks. 
-- [Recurrent Neural Networks (RNN).](06.%20Recurrent%20Neural%20Networks/01.%20Recurrent%20Neural%20Networks%20-%20MXNet.ipynb)
-- [Long Short Term Memory Cell (LSTM).](06.%20Recurrent%20Neural%20Networks/02.%20Long%20Short%20Term%20Memory%20-%20MXNet.ipynb)
-- [Gated Recurrent Unit (GRU).](06.%20Recurrent%20Neural%20Networks/03.%20Gated%20Recurrent%20Unit%20-%20MXNet.ipynb)
-- [Sequence to Sequence.](06.%20Recurrent%20Neural%20Networks/04.%20Sequence%20to%20Sequence%20-%20MXNet.ipynb)
-- [Multilayer Recurrent Neural Networks.](06.%20Recurrent%20Neural%20Networks/05.%20Multilayer%20Recurrent%20Neural%20Networks%20MXNet.ipynb)
-- [Bidirectional Recurrent Neural Networks.](06.%20Recurrent%20Neural%20Networks/06.%20Bidirectional%20Recurrent%20Neural%20Networks%20-%20MXNet.ipynb)
+- [Recurrent Neural Networks (RNN)](06.%20Recurrent%20Neural%20Networks/01.%20Recurrent%20Neural%20Networks%20-%20MXNet.ipynb)
+- [Long Short Term Memory Cell (LSTM)](06.%20Recurrent%20Neural%20Networks/02.%20Long%20Short%20Term%20Memory%20-%20MXNet.ipynb)
+- [Gated Recurrent Unit (GRU)](06.%20Recurrent%20Neural%20Networks/03.%20Gated%20Recurrent%20Unit%20-%20MXNet.ipynb)
+- [Sequence to Sequence](06.%20Recurrent%20Neural%20Networks/04.%20Sequence%20to%20Sequence%20-%20MXNet.ipynb)
+- [Multilayer Recurrent Neural Networks](06.%20Recurrent%20Neural%20Networks/05.%20Multilayer%20Recurrent%20Neural%20Networks%20MXNet.ipynb)
+- [Bidirectional Recurrent Neural Networks](06.%20Recurrent%20Neural%20Networks/06.%20Bidirectional%20Recurrent%20Neural%20Networks%20-%20MXNet.ipynb)
 
 ### Convolutional Neural Networks.
-- [Understanding Convolutional.](07.%20Convolutional%20Neural%20Networks/01.%20Understanding%20Convolutional%20-%20MXNet.ipynb)
-- [Convolution with Padding.](07.%20Convolutional%20Neural%20Networks/03.%20Convolution%20with%20Padding%20-%20MXNet.ipynb)
-- [Convolution with Strides.](07.%20Convolutional%20Neural%20Networks/02.%20Convolution%20with%20Strides%20-%20MXNet.ipynb)
-- [Max Pooling.](07.%20Convolutional%20Neural%20Networks/04.%20Max%20Pooling%20-%20MXNet.ipynb)
-- [Average Pooling.](07.%20Convolutional%20Neural%20Networks/05.%20Average%20Pooling%20-%20MXNet.ipynb)
+- [Understanding Convolutional](07.%20Convolutional%20Neural%20Networks/01.%20Understanding%20Convolutional%20-%20MXNet.ipynb)
+- [Convolution with Padding](07.%20Convolutional%20Neural%20Networks/03.%20Convolution%20with%20Padding%20-%20MXNet.ipynb)
+- [Convolution with Strides](07.%20Convolutional%20Neural%20Networks/02.%20Convolution%20with%20Strides%20-%20MXNet.ipynb)
+- [Max Pooling](07.%20Convolutional%20Neural%20Networks/04.%20Max%20Pooling%20-%20MXNet.ipynb)
+- [Average Pooling](07.%20Convolutional%20Neural%20Networks/05.%20Average%20Pooling%20-%20MXNet.ipynb)
 - Understading Deconvolution. __(To be implemented)__
 
 ### Generative Models.
-- [Autoencoder.](08.%20Generative%20models/01.%20Autoencoder%20MXNet.ipynb)
-- [Denoising Autoencoder.](08.%20Generative%20models/02.%20Denoising%20Autoencoder%20-%20MXNet.ipynb)
-- [Sparse Autoencoder.](08.%20Generative%20models/03.%20Sparse%20Autoencoder%20-%20MXNet.ipynb)
-- [Variational Autoencoder.](08.%20Generative%20models/04.%20Variational%20Autoencoder%20-%20MXNet.ipynb)
-- [Generative Adversarial Networks.](08.%20Generative%20models/05.%20Generative%20Adversarial%20Networks%20-%20MXNet.ipynb)
-- [Deep Convolutional GAN.](08.%20Generative%20models/06.%20Deep%20Convolutional%20GAN%20-%20MXNet.ipynb)
-- [Conditional GAN.](08.%20Generative%20models/07.%20Conditional%20GAN%20-%20MXNet.ipynb)
-- [AC GAN.](08.%20Generative%20models/08.%20AC%20GAN%20-%20MXNet.ipynb)
-- [LS GAN.](08.%20Generative%20models/09.%20LS%20GAN%20-%20MXNet.ipynb)
-- [Info GAN.](08.%20Generative%20models/10.%20Info%20GAN%20-%20MXNet.ipynb)
+- [Autoencoder](08.%20Generative%20models/01.%20Autoencoder%20MXNet.ipynb)
+- [Denoising Autoencoder](08.%20Generative%20models/02.%20Denoising%20Autoencoder%20-%20MXNet.ipynb)
+- [Sparse Autoencoder](08.%20Generative%20models/03.%20Sparse%20Autoencoder%20-%20MXNet.ipynb)
+- [Variational Autoencoder](08.%20Generative%20models/04.%20Variational%20Autoencoder%20-%20MXNet.ipynb)
+- [Generative Adversarial Networks](08.%20Generative%20models/05.%20Generative%20Adversarial%20Networks%20-%20MXNet.ipynb)
+- [Deep Convolutional GAN](08.%20Generative%20models/06.%20Deep%20Convolutional%20GAN%20-%20MXNet.ipynb)
+- [Conditional GAN](08.%20Generative%20models/07.%20Conditional%20GAN%20-%20MXNet.ipynb)
+- [AC GAN](08.%20Generative%20models/08.%20AC%20GAN%20-%20MXNet.ipynb)
+- [LS GAN](08.%20Generative%20models/09.%20LS%20GAN%20-%20MXNet.ipynb)
+- [Info GAN](08.%20Generative%20models/10.%20Info%20GAN%20-%20MXNet.ipynb)
 - Cyclic GAN. __(To be implemented)__
 - Disco GAN. __(To be implemented)__
 - Bi GAN. __(To be implemented)__
 - W GAN. __(To be implemented)__
 
 ### Computer Vision
-- [LeNet.](09.%20Computer%20Vision/01.%20LeNet%20-%20MXNet.ipynb)
-- [AlexNet.](09.%20Computer%20Vision/02.%20AlexNet%20-%20MXNet.ipynb)
-- [VGG.](09.%20Computer%20Vision/03.%20VGG%20Net%20-%20MXNet.ipynb)
-- [Network in Network.](09.%20Computer%20Vision/04.%20Network%20in%20Network%20-%20MXNet.ipynb)
-- [Inception Network.](09.%20Computer%20Vision/05.%20Inception%20Network%20-%20MXNet.ipynb)
-- [ResNet.](09.%20Computer%20Vision/06.%20Residual%20Network%20-%20MXNet.ipynb)
-- [DenseNet.](09.%20Computer%20Vision/07.%20DenseNet%20-%20MXNet.ipynb)
-- [Data Augmentation.](09.%20Computer%20Vision/08.%20Data%20Augmentation%20-%20MXNet.ipynb)
+- [LeNet](09.%20Computer%20Vision/01.%20LeNet%20-%20MXNet.ipynb)
+- [AlexNet](09.%20Computer%20Vision/02.%20AlexNet%20-%20MXNet.ipynb)
+- [VGG](09.%20Computer%20Vision/03.%20VGG%20Net%20-%20MXNet.ipynb)
+- [Network in Network](09.%20Computer%20Vision/04.%20Network%20in%20Network%20-%20MXNet.ipynb)
+- [Inception Network](09.%20Computer%20Vision/05.%20Inception%20Network%20-%20MXNet.ipynb)
+- [ResNet](09.%20Computer%20Vision/06.%20Residual%20Network%20-%20MXNet.ipynb)
+- [DenseNet](09.%20Computer%20Vision/07.%20DenseNet%20-%20MXNet.ipynb)
+- [Data Augmentation](09.%20Computer%20Vision/08.%20Data%20Augmentation%20-%20MXNet.ipynb)
 
 ### Applications of Computer Vision
-- [Image Classification.](10.%20Applications%20of%20Computer%20Vision/01.%20Image%20Classification%20-%20MXNet.ipynb)
-- [Transfer Learning.](10.%20Applications%20of%20Computer%20Vision/02.%20Transfer%20Learning%20-%20MXNet.ipynb)
-- Image Denoising. __(To be implemented)__
+- [Image Classification](10.%20Applications%20of%20Computer%20Vision/01.%20Image%20Classification%20-%20MXNet.ipynb)
+- [Transfer Learning](10.%20Applications%20of%20Computer%20Vision/02.%20Transfer%20Learning%20-%20MXNet.ipynb)
+- [Image Denoising.](10.%20Applications%20of%20Computer%20Vision/03.%20Image%20Denoising%20-%20MXNet.ipynb)
 - Image Resolution Inhancer. __(To be implemented)__
 - Image Reconstruction. __(To be implemented)__
 - Image Colorization. __(To be implemented)__
