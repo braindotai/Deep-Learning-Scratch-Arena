@@ -32,14 +32,14 @@ Same goes for the Deep Learning technologies, if you really (like reeaally) want
 - [Sigmoid](02.%20Activation%20Functions/01.%20Sigmoid%20Activation%20Function%20-%20MXNet.ipynb)
 - [Tanh](02.%20Activation%20Functions/02.%20Tanh%20Activation%20Function%20-%20MXNet.ipynb)
 - [ArcTan](02.%20Activation%20Functions/03.%20ArcTan%20Activation%20Function%20-%20MXNet.ipynb)
-- [ISRU](02.%20Activation%20Functions/04.%20ISRU%20Activation%20Function%20-%20MXNet.ipynb)
-- [ISRLU](02.%20Activation%20Functions/05.%20ISRL%20Activation%20Function%20-%20MXNet.ipynb)
-- [PLU](02.%20Activation%20Functions/06.%20PLU%20Activation%20Function%20-%20MXNet.ipynb)
-- [ReLU](02.%20Activation%20Functions/07.%20ReLu%20Activation%20Function%20-%20MXNet.ipynb)
-- [Leaky ReLU](02.%20Activation%20Functions/08.%20Leaky%20ReLU%20Activation%20Function%20-%20MXNet.ipynb)
-- Soft ReLU
-- Soft Sign
-- RReLU
+- [Softsign](02.%20Activation%20Functions/04.%20Softsign%20Activation%20Function%20-%20MXNet.ipynb)
+- [ISRU](02.%20Activation%20Functions/05.%20ISRU%20Activation%20Function%20-%20MXNet.ipynb)
+- [ISRLU](02.%20Activation%20Functions/06.%20ISRL%20Activation%20Function%20-%20MXNet.ipynb)
+- [PLU](02.%20Activation%20Functions/07.%20PLU%20Activation%20Function%20-%20MXNet.ipynb)
+- [ReLU](02.%20Activation%20Functions/08.%20ReLu%20Activation%20Function%20-%20MXNet.ipynb)
+- [SoftPlus](02.%20Activation%20Functions/09.%20SoftPlus%20Activation%20Function%20-%20MXNet.ipynb)
+- [Leaky ReLU](02.%20Activation%20Functions/10.%20Leaky%20ReLU%20Activation%20Function%20-%20MXNet.ipynb)
+- RReLU(02.%20Activation%20Functions/11.%20RReLU%20Activation%20Function%20-%20MXNet.ipynb)
 - PReLU
 - ELU
 - SELU
