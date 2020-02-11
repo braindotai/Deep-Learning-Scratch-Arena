@@ -39,8 +39,8 @@ Same goes for the Deep Learning technologies, if you really (like reeaally) want
 - [ReLU](02.%20Activation%20Functions/08.%20ReLu%20-%20MXNet.ipynb)
 - [SoftPlus](02.%20Activation%20Functions/09.%20SoftPlus%20-%20MXNet.ipynb)
 - [Leaky ReLU](02.%20Activation%20Functions/10.%20Leaky%20ReLU%20-%20MXNet.ipynb)
-- [RReLU](02.%20Activation%20Functions/11.%20RReLU%20-%20MXNet.ipynb)
-- PReLU
+- [PReLU](02.%20Activation%20Functions/11.%20PReLU%20-%20MXNet.ipynb)
+- [RReLU](02.%20Activation%20Functions/12.%20RReLU%20-%20MXNet.ipynb)
 - ELU
 - SELU
 - Swish
