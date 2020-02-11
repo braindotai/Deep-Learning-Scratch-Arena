@@ -31,14 +31,22 @@ Same goes for the Deep Learning technologies, if you really (like reeaally) want
 ### Activation Functions.
 - Sigmoid
 - Tanh
+- ArcTan
+- ISRU
+- ISRLU
+- PLU
 - ReLU
 - Leaky ReLU
 - Soft ReLU
 - Soft Sign
+- RReLU
 - PReLU
 - ELU
 - SELU
 - Swish
+- Soft Plus
+- Bent Identity
+- Soft Clipping
 
 ### Gradient Descent Variants. 
 - [Momentum Optimizer](03.%20Gradient%20Descent%20Variants/01.%20Momentum%20-%20MXNet.ipynb)
