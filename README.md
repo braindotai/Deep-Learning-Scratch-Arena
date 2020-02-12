@@ -41,12 +41,10 @@ Same goes for the Deep Learning technologies, if you really (like reeaally) want
 - [Leaky ReLU](02.%20Activation%20Functions/10.%20Leaky%20ReLU%20-%20MXNet.ipynb)
 - [PReLU](02.%20Activation%20Functions/11.%20PReLU%20-%20MXNet.ipynb)
 - [RReLU](02.%20Activation%20Functions/12.%20RReLU%20-%20MXNet.ipynb)
-- ELU
-- SELU
-- Swish
-- Soft Plus
-- Bent Identity
-- Soft Clipping
+- [ELU](02.%20Activation%20Functions/13.%20ELU%20-%20MXNet.ipynb)
+- [SELU](02.%20Activation%20Functions/14.%20SELU%20-%20MXNet.ipynb)
+- [Swish](02.%20Activation%20Functions/15.%20Swish%20-%20MXNet.ipynb)
+- [Bent Identity](02.%20Activation%20Functions/15.%20Bent%20Identity%20-%20MXNet.ipynb)
 
 ### Gradient Descent Variants. 
 - [Momentum Optimizer](03.%20Gradient%20Descent%20Variants/01.%20Momentum%20-%20MXNet.ipynb)
