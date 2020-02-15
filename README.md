@@ -88,8 +88,8 @@ Same goes for the Deep Learning technologies, if you really (like reeaally) want
 - [Max Pooling](08.%20Convolutional%20Neural%20Networks/04.%20Max%20Pooling%20-%20MXNet.ipynb)
 - [Average Pooling](08.%20Convolutional%20Neural%20Networks/05.%20Average%20Pooling%20-%20MXNet.ipynb)
 - [Understanding Deconvolution](08.%20Convolutional%20Neural%20Networks/06.%20Understanding%20Deconvolution%20-%20MXNet.ipynb)
-- [Deconvolution with Strides](08.%20Convolutional%20Neural%20Networks/06.%20Deconvolution%20with%20Strides%20-%20MXNet.ipynb)
-- [Deconvolution with Padding](08.%20Convolutional%20Neural%20Networks/06.%20Deconvolution%20with%20Padding%20-%20MXNet.ipynb)
+- [Deconvolution with Strides](08.%20Convolutional%20Neural%20Networks/07.%20Deconvolution%20with%20Strides%20-%20MXNet.ipynb)
+- [Deconvolution with Padding](08.%20Convolutional%20Neural%20Networks/08.%20Deconvolution%20with%20Padding%20-%20MXNet.ipynb)
 
 ### Generative Models.
 - [Autoencoder](09.%20Generative%20Models/01.%20Autoencoder%20MXNet.ipynb)
