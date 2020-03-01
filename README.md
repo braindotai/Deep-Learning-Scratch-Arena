@@ -29,8 +29,8 @@ Same goes for the Deep Learning technologies, if you really (like reeaally) want
 - [The Modern Deep Learning - Neural Networks](01.%20Intro%20To%20Deep%20Learning/04.%20Multilayer%20Neural%20Networks%20-%20MXNet.ipynb)
 
 ### Activation Functions.
-- [Sigmoid](02.%20Activation%20Functions/01.%20Sigmoid%20-%20MXNet.ipynb)
-- [Tanh](02.%20Activation%20Functions/02.%20Tanh%20-%20MXNet.ipynb)
+- [Sigmoid](02.%20Activation%20Functions/01.%20Sigmoid-%20MXNet.ipynb)
+- [Tanh](02.%20Activation%20Functions/02.%20Tanh-%20MXNet.ipynb)
 - [ArcTan](02.%20Activation%20Functions/03.%20ArcTan%20-%20MXNet.ipynb)
 - [Softsign](02.%20Activation%20Functions/04.%20Softsign%20-%20MXNet.ipynb)
 - [ISRU](02.%20Activation%20Functions/05.%20ISRU%20-%20MXNet.ipynb)
